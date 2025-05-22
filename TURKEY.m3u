@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
 
-#EXTINF:-1 tvg-name="beIN SPORTS" tvg-id="beIN SPORTS.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-sport-1-hd.png" group-title="Spor",beIN SPORTS
-https://guhjexjm6qlma62smk3l22wiu0d6vn.top/cek.m3u8?u=https://k.mevzuhls11.cfd/yayinzirve.m3u8&a=&aa=k.mevzuhls11.cfd
+
 #EXTINF:-1 tvg-name="S SPORT" tvg-id="S SPORT.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
 #EXTVLCOPT:http-referrer=https://trgoals1077.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -293,22 +292,6 @@ http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="beIN Movies Premiere" tvg-id="TR: beIN Movies Premiere" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-hd-tr.png" group-title="Sinema",beIN Movies Premiere
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1764
-#EXTINF:-1 tvg-name="beIN Movies Premiere 2" tvg-id="TR: beIN Movies Premiere 2" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-premiere-2-hd-tr.png" group-title="Sinema",beIN Movies Premiere 2
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1765
-#EXTINF:-1 tvg-name="beIN Movies Stars" tvg-id="TR: beIN Movies Stars" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-stars-hd-tr.png" group-title="Sinema",beIN Movies Stars
-http://67.hurguven.win:8080/aliustaoglu/12122020alust12/136634
-#EXTINF:-1 tvg-name="beIN Movies Turk" tvg-id="TR: beIN Movies Turk" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-movies-turk-hd-tr.png" group-title="Sinema",beIN Movies Turk
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/1767
-#EXTINF:-1 tvg-name="beIN Series 1" tvg-id="TR: beIN Series 1" tvg-logo="https://media0070.elcinema.com/tvguide/1327_1.png" group-title="Sinema",beIN Series 1
-http://48.magnm.win:8080/aliustaoglu/12122020alust12/136637
-#EXTINF:-1 tvg-name="TR: beIN Series 2" tvg-id="TR: beIN Series 2" tvg-logo="https://media0070.elcinema.com/tvguide/1328_1.png" group-title="Sinema",TR: beIN Series 2
-http://67.hurguven.win:8080/aliustaoglu/12122020alust12/136638
-#EXTINF:-1 tvg-name="beIN Series 3" tvg-id="TR: beIN Series 3" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-3-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="Sinema",beIN Series 3
-http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/298428
-#EXTINF:-1 tvg-name="TR: beIN Series 4" tvg-id="TR: beIN Series 4" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-4-logo.png?rkt=DfS6Tgv6Hjr93k3" group-title="Sinema",TR: beIN Series 4
-http://48.magnm.win:8080/aliustaoglu/12122020alust12/136640
 #EXTINF:-1 tvg-name="Cine 1" tvg-id="Cine1 Tv.tr" tvg-logo="https://pbs.twimg.com/profile_images/1859948416903593984/-3arVFel_400x400.jpg" group-title="Sinema",Cine 1
 http://bertalone.autos:8080/test_acct/ohbo1veifa4AhD/300983
 #EXTINF:-1 tvg-name="Moviesmart Türk" tvg-id="MovieSmart Turk.tr" tvg-logo="https://www.yuksekovaguncel.com.tr/images/haberler/d_smartin_hd_kanal_sayisi_artiyor_h55683.jpg" group-title="Sinema",Moviesmart Türk
