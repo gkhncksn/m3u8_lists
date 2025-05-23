@@ -19,12 +19,10 @@ https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-name="Beyaz Tv" tvg-id="Beyaz Tv.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/beyaz-tv-tr.png" group-title="Ulusal",Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 group-title="Ulusal",24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
-#EXTINF:-1 group-title="Ulusal",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 group-title="Ulusal",TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+
 
 
 #EXTINF:-1 tvg-name="Kanal 7" tvg-id="Kanal 7.tr" tvg-logo="https://play-lh.googleusercontent.com/s029TvwR-pU-SIoJh2GcGIScm4LzsmuTTbwPSCtwIK_6aOOXjQwC6mcHeMrPDst2KYM" group-title="Ulusal",Kanal 7
@@ -50,7 +48,8 @@ https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="DMax" tvg-id="DMax.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/604a04ef866ac32574736ef6" group-title="Ulusal",DMax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 
-
+#EXTINF:-1 group-title="Ulusal",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
 #EXTINF:-1 group-title="Ulusal",24 TV (1080p)
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal",360 TV (720p) [Not 24/7]
@@ -59,7 +58,8 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://tv.ensonhaber.com/tv360/tv360.m3u8
 #EXTINF:-1,tiviTÜRK (720p) [Not 24/7]
 https://stream.tiviturk.de/live/tiviturk.m3u8
-
+#EXTINF:-1 group-title="Ulusal",TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 
 #EXTINF:-1 group-title="Müzik",Power TV (1080p)
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
