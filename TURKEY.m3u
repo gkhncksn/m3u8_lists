@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
-
 #EXTINF:-1 tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg" group-title="Ulusal",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="Star" tvg-id="Star.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/star-tv-tr.png" group-title="Ulusal",Star
