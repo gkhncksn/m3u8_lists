@@ -1,47 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,Alfa Omega TV
-https://ch.iptvmate.net/b780946a8de8f0ebeeed1f43b4ca9582.m3u8
-#EXTINF:-1 ,Alfa Omega TV
-https://ch.iptvmate.net/99ab43b8e05b44765cee828fc5deafb8.m3u8
-#EXTINF:-1 ,B1
-https://ch.iptvmate.net/f971a1699633eca2551d622a7e168e25.m3u8
-#EXTINF:-1 ,B1
-https://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 ,B1
-http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:-1 ,B1
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 ,Bucovina TV
-https://ch.iptvmate.net/34bf0fd9c6abd39babdbacb463fb2fb1.m3u8
-#EXTINF:-1 ,Bucovina TV
-https://ch.iptvmate.net/8638921bf17f446eeb1661b195d2e7ca.m3u8
-#EXTINF:-1 ,Bucovina TV
-http://46.4.14.12:9999/btvsvlive/playlist.m3u8
-#EXTINF:-1 ,Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:-1 ,EST TV
-https://ch.iptvmate.net/481759b863db782ad989e4454ddc7ae9.m3u8
 #EXTINF:-1 ,EST TV Neamt
 http://89.38.8.130:39435
-#EXTINF:-1 ,Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 ,Intermedia TV
-https://ch.iptvmate.net/7e92d15f00213b7f4a48960350ab7db1.m3u8
-#EXTINF:-1 ,Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:-1 ,Profit.ro
-https://ch.iptvmate.net/625ea96786f2341ff1ae4983c8e44b08.m3u8
 #EXTINF:-1 ,TV SE
 http://89.38.8.130:39419
-#EXTINF:-1 ,TV SE
-https://ch.iptvmate.net/d70fbf6bb5de6d71ac64f359ada1342b.m3u8
 #EXTINF:-1 ,TVPlus Suceava
 http://85.186.146.34:8080
-#EXTINF:-1 ,TVPlus Suceava
-https://ch.iptvmate.net/0a00fed7fb7f4e9049d36b64391bfe96.m3u8
-#EXTINF:-1 ,TravelMix
-https://ch.iptvmate.net/7c06b81435fa03b0939289718990d5de.m3u8
-#EXTINF:-1 ,VP TV
-https://ch.iptvmate.net/e6566abb541c96b09a710d718fe750ab.m3u8
-#EXTINF:-1 ,VP TV
-http://89.38.8.130:39437
