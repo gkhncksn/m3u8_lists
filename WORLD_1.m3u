@@ -68,6 +68,13 @@ http://server002.dreamstar.ru.com/azerbaijan/24/playlist.m3u8
 #EXTINF:-1,AZE:ARB GUNES
 http://server1.dreamstar.ru.com/azerbaijan/gunes/playlist.m3u8
 
+#EXTINF:-1 ,RO:EST TV Neamt
+http://89.38.8.130:39435
+#EXTINF:-1 ,RO:TV SE
+http://89.38.8.130:39419
+#EXTINF:-1 ,RO:TVPlus Suceava
+http://85.186.146.34:8080
+
 #EXTINF:-1,Al JAZEERA English UHD
 http://live-hls-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,Al JAZEERA English FHD
