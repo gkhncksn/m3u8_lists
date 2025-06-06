@@ -102,40 +102,7 @@ https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/life-tv-ee.png" group-title="SİNEMA",Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-hd-usa-us.png" group-title="SİNEMA",MGM+East
-http://fl3.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-marquee-us.png" group-title="SİNEMA",MGM+ Marquee
-http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/action_fr.png" group-title="SİNEMA",Xtrema Action
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hallmark-channel-us.svg" group-title="SİNEMA",Hallmark Movies
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-movies-us.png" group-title="SİNEMA",Lifetime Movies
-http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/pp/paramount-international-networks-us.png" group-title="SİNEMA",Paramount Channel
-http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fmn_id.png" group-title="SİNEMA",FXM
-http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/05ccca03-95b6-4a13-a888-dc3c0327bce4/revry+logo+with+tag.png?format=1500w" group-title="SİNEMA",Revry 2
-https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/tt/the-groove-us.svg" group-title="SİNEMA",Groovy TV
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cleo-tv-us.png" group-title="SİNEMA",Cleo TV (720p)
-http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="SİNEMA",30A TV Classic Movies
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn_in.png" group-title="SİNEMA",ABN Bible Movies
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="SİNEMA",AMC East
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-tv-movies-horror-ae.png" group-title="SİNEMA",American Horrors
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema-tr.png" group-title="SİNEMA",Grand Cinema
-https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-movies-us.png" group-title="SİNEMA",Lifetime Movies
-http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_westerns_east.png" group-title="SİNEMA",CINÉ WESTERN
-https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/e6540a94-93a6-4b38-bb2d-eafe9fa047e2/2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-muzik-tr.png" group-title="TÜRK MÜZİK KANALLARI",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/ons-nl.svg" group-title="TÜRK MÜZİK KANALLARI",ONS TV
