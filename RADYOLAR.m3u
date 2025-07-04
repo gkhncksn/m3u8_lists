@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 AÇS RADYO
+https://ip169.ozelip.com:10838/stream
+#EXTINF:-1 ALEM FM	
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1 BEST FM	
+http://46.20.7.125/
+#EXTINF:-1 BİZİM FM
+https://radyoserver60.okeylisans.com:14000/9212/
+#EXTINF:-1 JOY FM	
+https://28933.live.streamtheworld.com/JOY_FM_ITUNES.mp3
+#EXTINF:-1 KAFA RADYO	
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 KORDON FM	
+http://38.96.148.39:8588
+#EXTINF:-1 KRAL POP	
+http://46.20.3.201:80/
+#EXTINF:-1 METRO FM	
+https://28503.live.streamtheworld.com/METRO_FM_ITUNES.mp3
+#EXTINF:-1 NUMBER1 90's	
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e325182420_1/playlist.m3u8
+#EXTINF:-1 NUMBER1 FM	
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:-1 NUMBER1 TÜRK RAP	
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e42fe816a0_1/playlist.m3u8
+#EXTINF:-1 NUMBER1 TÜRK	
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8
+#EXTINF:-1 PAL NOSTALJİ 2	
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 PAL NOSTALJİ	
+http://shoutcast.radyogrup.com:1010/;stream/1
+#EXTINF:-1 PAL STATION	
+http://shoutcast.radyogrup.com:1020/;stream/1
+#EXTINF:-1 POWER FM DANCE	
+http://listen.powerapp.com.tr/powerdance/abr/playlist.m3u8
+#EXTINF:-1 POWER FM DEEP	
+http://listen.powerapp.com.tr/powerdeep/abr/playlist.m3u8
+#EXTINF:-1 POWER FM HIPHOP	
+http://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8
+#EXTINF:-1 POWER FM JAZZ	
+http://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
+#EXTINF:-1 POWER FM LOVE	
+http://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
+#EXTINF:-1 POWER FM SMOOTH	
+http://listen.powerapp.com.tr/powersmooth/abr/playlist.m3u8
+#EXTINF:-1 POWER FM	
+http://listen.powerapp.com.tr/powerfm/abr/playlist.m3u8
+#EXTINF:-1 POWER POP	
+http://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8
+#EXTINF:-1 POWER XL LOUNGE	
+https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/256/chunks.m3u8
+#EXTINF:-1 POWERTÜRK RAP	
+http://listen.powerapp.com.tr/powerturkrap/abr/playlist.m3u8
+#EXTINF:-1 POWERTÜRK TAPTAZE	
+http://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
+#EXTINF:-1 POWERTÜRK	
+http://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 RADYO 45'LİK	
+http://stream.radyo45lik.com:4545/stream
+#EXTINF:-1 RADYO ARABESK	
+http://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 RADYO D	
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1 RADYO DEJAVU	
+http://radyodejavu.canliyayinda.com:8054/
+#EXTINF:-1 RADYO MEGA	
+http://radyo.yayin.com.tr:4052/
+#EXTINF:-1 RADYO MYDONOSE	
+https://28993.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac
+#EXTINF:-1 RADYO ODTU Rock	
+http://stream.radyoodtu.com.tr/rock
+#EXTINF:-1 RADYO ODTU	
+http://stream.radyoodtu.com.tr/canli
+#EXTINF:-1 RADYO PAUSE	
+http://radyopause.ozelip.com.tr:8040/
+#EXTINF:-1 RADYO TATLISES	
+https://sslyayin.radyoyayini.com:7009/
+#EXTINF:-1 RADYO TRİO	
+http://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:-1 RADYO TURKUVAZ	
+http://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 RADYO VİVA	
+http://46.20.3.230/;
+#EXTINF:-1 RADYO VOYAGE	
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
+#EXTINF:-1 RETROTÜRK	
+https://25703.live.streamtheworld.com/RETROTURK_SC
+#EXTINF:-1 ROMANTİK TÜRK	
+http://radyo.yayin.com.tr:6042/
+#EXTINF:-1 SLOW TÜRK	
+https://radyo.duhnet.tv/slowturk
+#EXTINF:-1 SÜPER FM	
+https://27953.live.streamtheworld.com/SUPER_FM_ITUNES.mp3
+#EXTINF:-1 TURKUVAZ NOSTALJİ	
+http://trkvz-radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8
+#EXTINF:-1 VIRGIN RADIO	
+https://27823.live.streamtheworld.com/VIRGIN_RADIO_ITUNES.mp3
+#EXTINF:-1 X NOSTALJİ	
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
