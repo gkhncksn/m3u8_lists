@@ -508,8 +508,8 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1  tvg-name="Beyaz Tv" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/beyaz-tv-tr.png" group-title="ULUSAL KANALLAR",Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1  tvg-name="TV4 (720p)" group-title="ULUSAL KANALLAR",TV4 (720p)
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1  tvg-name="TV4 (720p)" group-title="ULUSAL KANALLAR",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1  tvg-name="Teve 2" tvg-logo="https://play-lh.googleusercontent.com/oXtnvGvKeRm3A668LZYAlm9TnrPmZWILngjmHvIOvrtajhZfwCUsJxM1_cgqaQlSaZM" group-title="ULUSAL KANALLAR",Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1  tvg-name="TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="ULUSAL KANALLAR",TLC
