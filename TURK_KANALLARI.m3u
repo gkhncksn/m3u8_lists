@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/est
 #EXTINF:-1  tvg-name="NOW HD" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="Play Tv | Ulusal",NOW HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1  tvg-name="Kanal D" tvg-logo="https://static.wikia.nocookie.net/tvradioschedules/images/f/fa/1200px-Kanal_D_logo.svg.png/revision/latest?cb=20240118070806" group-title="Play Tv | Ulusal",Kanal D
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1  tvg-name="EURO D HD" tvg-logo="https://eurod.kanald.com.tr/assets/img/logo.v5.png" group-title="Play Tv | Ulusal",EURO D HD
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
 #EXTINF:-1  tvg-name="A2 HD" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Play Tv | Ulusal",A2 HD
