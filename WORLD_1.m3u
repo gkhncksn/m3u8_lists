@@ -1531,10 +1531,26 @@ http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
 http://31.148.48.15:80/Playboy_TV/playlist.m3u8
 #EXTINF:-1 group-title="XXX",PLAYBOY LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-
-
-
+#EXTINF:-1 group-title="XXX" tvg-id="426102" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="XXX",AMAZING TV
+http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="426016" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus-ar.svg",Venus
+http://cdn4k.cc:80/JosemarOliveira/24jos999064802/28293
+#EXTINF:-1 group-title="XXX" tvg-logo="",Sex girl(125)
+http://125.227.210.55:3031/VideoInput/play.ts
+#EXTINF:-1 group-title="XXX" tvg-logo="https://www.tvbrowser.org/data/uploads/icons/3489946438aebffec54b07efa9287559.png",DMF
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",香蕉台(125)
+http://125.227.210.55:1009/VideoInput/play.ts
+#EXTINF:-1 group-title="XXX" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",OSTV 2(125)
+http://125.227.210.55:1022/VideoInput/play.ts
+#EXTINF:-1 group-title="XXX" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",OSTV 3(125)
+http://125.227.210.55:3033/VideoInput/play.ts
+#EXTINF:-1 group-title="XXX" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",BANANA HD
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+#EXTINF:-1 group-title="PRIVADO" tvg-id="" tvg-logo="",驚豔台(125)
+http://125.227.210.55:3016/VideoInput/play.ts
 
 
 
