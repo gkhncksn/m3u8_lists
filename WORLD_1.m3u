@@ -1502,3 +1502,51 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19188/index.m3u8
 #EXTINF:0 tvg-rec="0",ITV4 UK
 #EXTGRP:Play Tv | United Kingdom
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19189/index.m3u8
+
+#EXTINF:-1 group-title="XXX",BABES TV
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",BABES TV
+https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
+
+#EXTINF:-1 group-title="XXX",BRAZZERS
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",EROX
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",EROXXX
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",EXTASY
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",DESIRE
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="XXX",DORCEL
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",LEO
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",LEO GOLD
+http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",REALITY KINGS
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",DUSK
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",PLAYBOY
+http://31.148.48.15:80/Playboy_TV/playlist.m3u8
+#EXTINF:-1 group-title="XXX",PLAYBOY LA
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="XXX",CARAC 1
+http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="XXX",CARAC 5
+https://edge14.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
+#EXTINF:-1 group-title="XXX",DMF
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
