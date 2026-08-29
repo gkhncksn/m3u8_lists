@@ -1,1508 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="SPORT",FS 1 SPORT
-http://212.102.60.10/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png" group-title="SPORT",NFL Network -us
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/impact-tv-network-us.png" group-title="SPORT",TNA Wrestling - us
-https://d3mwqwqfak7y2q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/746ed714-f5bd-407e-8b74-fed717358111/3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/stv-uk.svg" group-title="SPORT",Swerve Sport -us
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="SPORT",A Sports
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aek-super-league-pass-gr.png" group-title="SPORT",AfrroSport
-https://newproxy3.vidivu.tv/vidivu_afrosport/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gsXeBG53UMTjrXK69" group-title="SPORT",FIFA TV
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/ca4819ac-3159-43e5-91bb-44c4036a1746/4.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/w-sport.svg" group-title="SPORT",Women's Sports Network
-https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/cb5434176573638d84c83a67cef043a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7554db80148b61299bce8c37683f03409a5e5afba358b1ebe65d40de6ca6e31e55977d42ef9f43c8821ca6d1d40d9b5ed774f815c892a483d3418a8ff30093738a80cd8a430df8fa1bb7ec1fd1fd9f7b349d7f31346f3f8486a68e82b81b25393addead9b075fa69aec345d3245f1361e9813c0f9c446c208798266cd181dbd90319eea97e7435aff5a5c5d93021b16ff59824bc1973b4f90e714bc56c97776568d0b5fc1d8ac71a81a563ab80294c688ec11edbaabb8db9e4d60a84739e8eb4b92d52426633078476ab8e228e7a8a36fb98536977657080b619848ad055352268838355db5a5b9ad3998cd20b749b334d14b82e8915552cff356a7df724b6cf6f3bc7755cf74057916f3c8e46f3af3fb5f68b976115819e9612b13f95f660b4d10da66a305c78c3d1244d4a417890a3263a3977c74af3c08886530c13e7e3c2eeca3069566c0f33ecea2a62fe3be80997f7a2ca9dcff22e1ce4569ec49537/115/1280x720_2657019/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/XbSJL1KzVipDogR76" group-title="SPORT",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORT",BeiN Sports Extra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORT",BEIN SPORT EXTRA Ñ 🇪🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-1-fr.svg" group-title="SPORT",EUROSPORT 1 🇪🇸
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-2-fr.svg" group-title="SPORT",EUROSPORT 2 🇪🇸
-http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-2-us.svg" group-title="SPORT",ESPN 2 co
-http://190.102.246.93:9005/play/a029
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.svg" group-title="SPORT",ESPN 3 co
-http://190.102.246.93:9005/play/a02l
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-premium-us-ar.svg" group-title="SPORT",ESPN PREMIUM 🇦🇷
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT",Arenasport 1 cz
-http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-uz.png" group-title="SPORT",BORDO SPORT
-https://srv.webtvmanager.fr:3225/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportitalia-plus-it.png" group-title="SPORT",SPORT ITALIA
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportitalia-solocalcio-it.svg" group-title="SPORT",SPORT ITALIA LIVE
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-1-ca.svg" group-title="SPORT",TSN 1 🇨🇦
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-2-ca.svg" group-title="SPORT",TSN 2 🇨🇦
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-3-ca.svg" group-title="SPORT",TSN 3 🇨🇦
-http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 tvg-shift="ca" tvg-name="ca" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-5-ca.svg" group-title="SPORT",TSN5 ca
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-3-ca.svg" group-title="SPORT",TSN 4 ca
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-3-ca.svg" group-title="SPORT",TSN 5 ca
-http://212.102.60.231/TSN_5/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-1-uk.svg" group-title="SPORT",ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it_480p.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-deportes-5-es.png" group-title="SPORT",ITV DEPORTES 🇲🇽
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-1-vn.png" group-title="SPORT",KCMN-LD6 - us
-https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/cb573d197d6c668d84c83b61cef54182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ace25b44d93af4e3014a932642fa83439fd401b2d2d20f8342d773f212c8c4f0d8d641d7e4d459896f29ca7b224049abc21fa7dc4fbddf831b56f61309756e9e623ef1842a1d954e422695970915178d74e38c3f88743bb242e82754d3f919c85af49b288da8a9cc4b4f73c3ae3e3274f2b5f0d8bd5d9bdc17c07336518d40bbd66d2be31823d6790a18da92ee0196cc0593f90a96a068133ad59d7f56fcd88cc2bf97439029cb88a1d66d0206540d0c8252b5892df51d9d29f880437a1c7a4da3cc019fc6c108642b0fa7904ed8162cbcd9a08acb416e99375509be2091702d58e118203ce924f29f7c4b8c25018a7c7dd850278f4ff9f77da6f295b5486bfb8e8771fe69eea7039da351fe236f0f70c69846684c4279dff9754d6129b122cae78ab027475096b4a798e75c37003512287ca8eaf57f968b80645d21c85d226f630355f120d37ad414461024aa4f81ff11156567fbca4807595aaccb8efc0892896d88c62d049f8733/123/854x480_1821204/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-fr.png" group-title="SPORT",Sport France - fr
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/l-tv-de.png" group-title="SPORT",Lacrosse TV - us
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE_v3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-connect-za.png" group-title="SPORT",Sports Connect
-https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/abr_satellitechannel/satch_sportsconnect_480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-czechia-lu-cz.svg" group-title="SPORT",Canal+ Sport
-http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fr-hd-iq.png" group-title="SPORT",World of Freesports
-https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/cb573d197d6c668d84c83b61cef54182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ffe05c47dc6ef4e0014a932642fa83439fd401ead4d65a8347d771f0139890a483811480e4d459896f29ca7b224049abc21fa7dc4fbddf831b56f61309756e9e623ef1842a1d954e422695970915178d74e38c3f88743bb242e82754d3f919c85af49b288da8a9cc4b4f73c3ae3e3274f2b5f0d8bd5d9bdc17c07336518d40bbd66d2be31823d6790a18da92ee0196cc0593f90a96a068133ad59d7f56fcd88cc2bf97439029cb88a1d66d0206540d0c8252b5892df51d9d29f880437a1c7a4da3cc019fc6c108642b0fa7904ed8162cbcd9a08acb416e99375509be2091702d58e118203ce924f29f7c4b8c25018a7c7dd850278f4ff9f77da6f295b5486bfb8e8771fe69eea7039da351fe236f0f70c69846684c4279dff9754d6129b122cae78ab027475096b4a798e75c37003512287ca8eaf57f968b80645d21c85d226f630355f120d37ad414461024ab4786b46894e492c58346c1d604d29564dd6de551989660d8d15cc5/95/848x480_1686360/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-ru.svg" group-title="SPORT",Матч! Футбол 3 HD 🇷🇺
-http://185.57.68.33/110/mpegts
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta-sport-af.png" group-title="SPORT",RTA Sports HD Ban Vs AFG
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="SPORT",Ten Sports PK
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ss/stv-ru.png" group-title="SPORT",SPORT RU 🇷🇺
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv-uk.svg" group-title="SPORT",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/real_madrid_tv_es_english.png" group-title="SPORT",REAL MADRID TV 🇪🇸
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/infosport-plus-fr.png" group-title="SPORT",INFOSPORT 🇫🇷
-http://212.102.60.80/Infosport/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="SPORT",Sony Ten 1 HD 🇮🇳
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png" group-title="SPORT",Turkmenistan Sport 🇹🇲
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/x-sport-ua.png" group-title="SPORT",X SPORT 🇷🇺
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge-sport-uk.svg" group-title="SPORT",Edge SPORT
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace-sport-stars-fr.png" group-title="SPORT",Trace Sport Stars (Australia) (1080p)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png" group-title="SPORT",Bahrein Sport 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1637718623_b1307000.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="SPORT",Dubai Sport 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="SPORT",Dubai Sport 2
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="SPORT",Dubai Sport 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman_tv_sport.png" group-title="SPORT",OMAN SPORT
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-hd-usa-us.png" group-title="SİNEMA",MGM+East
-http://fl3.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-marquee-us.png" group-title="SİNEMA",MGM+ Marquee
-http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-movies-us.png" group-title="SİNEMA",Lifetime Movies
-http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/pp/paramount-international-networks-us.png" group-title="SİNEMA",Paramount Channel
-http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fmn_id.png" group-title="SİNEMA",FXM
-http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/05ccca03-95b6-4a13-a888-dc3c0327bce4/revry+logo+with+tag.png?format=1500w" group-title="SİNEMA",Revry 2
-https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/tt/the-groove-us.svg" group-title="SİNEMA",Groovy TV
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cleo-tv-us.png" group-title="SİNEMA",Cleo TV (720p)
-http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="SİNEMA",30A TV Classic Movies
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn_in.png" group-title="SİNEMA",ABN Bible Movies
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="SİNEMA",AMC East
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-tv-movies-horror-ae.png" group-title="SİNEMA",American Horrors
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema-tr.png" group-title="SİNEMA",Grand Cinema
-https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-movies-us.png" group-title="SİNEMA",Lifetime Movies
-http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_westerns_east.png" group-title="SİNEMA",CINÉ WESTERN
-https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/e6540a94-93a6-4b38-bb2d-eafe9fa047e2/2.m3u8
-
-
-#EXTINF:-1,AZ:ALVİN CHANNEL TV
-http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1,AZ:KEPEZ TV (GENCE)
-http://85.132.81.184:8080/arbkepez/live/index.m3u8
-#EXTINF:-1,AZ:EL TV (YEVLAX)
-http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
-#EXTINF:-1,AZ:NAXCIVAN TV
-http://canli.naxcivantv.az/media/ntvlive123.m3u8
-#EXTINF:-1,AZ:SES TV
-http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
-#EXTINF:-1,AZ:QEBELE TV
-https://qebele.tv/live/stream/index.m3u8
-#EXTINF:-1,AZ:INTERAZ TV
-http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
-#EXTINF:-1,AZ:BAKU TV SD
-https://rtmp.baku.tv/live/bakutv_360p.m3u8
-#EXTINF:-1,AZ:MUGAN TV AZ
-http://server002.dreamstar.ru.com/azerbaijan/mugan/playlist.m3u8
-#EXTINF:-1,AZ:UMID TV SD 360
-https://cdn-umudtv.yayin.com.tr/umudtv/umudtv_360p/playlist.m3u8
-#EXTINF:-1,AZ:GUNAZ TV
-http://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/feed03/chunklist_w.m3u8
-#EXTINF:-1,AZ:HADI TV AZ
-https://live.ishiacloud.com/eNKFSxPMUbQFq5fP_480p/index.m3u8
-#EXTINF:-1,AZ:AN.T HD
-https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
-#EXTINF:-1,AZ:AZSTAR TV SD 240 p
-http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
-#EXTINF:-1,AZ:AL-ZAHRA TV
-https://live.al-zahratv.com/live/playlist2/index.m3u8
-#EXTINF:-1,AZ:ON4
-http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
-#EXTINF:-1,AZ:KANAL 12 AZ
-http://yayin.netradyom.com:1935/live/kanal12/chunklist_w.m3u8
-#EXTINF:-1,AZ:LIVETV AZ
-http://server002.dreamstar.ru.com/azerbaijan/livetv/playlist.m3u8
-#EXTINF:-1,AZ:APA TV
-https://rtmp.apa.tv/@pagroup!23.m3u8
-#EXTINF:-1,AZ:MEDIA FM AZ
-http://server002.dreamstar.ru.com/mediafm/live/playlist.m3u8
-#EXTINF:-1,AZE:AZAD AZE
-http://server1.dreamstar.ru.com/azerbaijan/atv_sd_stream4/playlist.m3u8
-#EXTINF:-1,AZE:MUZ TV AZE
-http://server002.dreamstar.ru.com/azerbaijan/muztv/playlist.m3u8
-#EXTINF:-1,AZE:MEDENIYYET TV
-http://server1.dreamstar.ru.com/azerbaijan/medeniyyet_stream2/playlist.m3u8
-#EXTINF:-1,AZE:ICTIMAI TV
-http://server1.dreamstar.ru.com/azerbaijan/ictimai_stream2/playlist.m3u8
-#EXTINF:-1,AZE:AZTV
-http://server1.dreamstar.ru.com/azerbaijan/aztv_stream2/playlist.m3u8
-#EXTINF:-1,AZE:CBC SPORT HD
-http://server002.dreamstar.ru.com/azerbaijan/cbc_sport/playlist.m3u8
-#EXTINF:-1,AZE:CBC TV AZ
-http://server002.dreamstar.ru.com/azerbaijan/cbc/playlist.m3u8
-#EXTINF:-1,AZE:XEZER TV
-http://server1.dreamstar.ru.com/azerbaijan/xazar_sd_stream_2/playlist.m3u8
-#EXTINF:-1,AZE:SPACE TV
-http://server1.dreamstar.ru.com/azerbaijan/space_stream/playlist.m3u8
-#EXTINF:-1,AZE:DUNYA TV
-http://server002.dreamstar.ru.com/azerbaijan/dunya/playlist.m3u8
-#EXTINF:-1,AZE:REAL TV
-http://server002.dreamstar.ru.com/azerbaijan/real/playlist.m3u8
-#EXTINF:-1,AZE:ARB TV
-http://server002.dreamstar.ru.com/azerbaijan/arb/playlist.m3u8
-#EXTINF:-1,AZE:ARB24
-http://server002.dreamstar.ru.com/azerbaijan/24/playlist.m3u8
-#EXTINF:-1,AZE:ARB GUNES
-http://server1.dreamstar.ru.com/azerbaijan/gunes/playlist.m3u8
-
-#EXTINF:-1 ,RO:EST TV Neamt
-http://89.38.8.130:39435
-#EXTINF:-1 ,RO:TV SE
-http://89.38.8.130:39419
-#EXTINF:-1 ,RO:TVPlus Suceava
-http://85.186.146.34:8080
-
-#EXTINF:-1,Al JAZEERA English UHD
-http://live-hls-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,Al JAZEERA English FHD
-http://live-hls-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1,Al JAZEERA English HD
-http://live-hls-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1,Al JAZEERA English SD
-http://live-hls-aje.getaj.net/AJE/04.m3u8
-#EXTINF:-1,Al JAZEERA English SD
-http://live-hls-aje.getaj.net/AJE/05.m3u8
-#EXTINF:-1,Al JAZEERA English LD
-http://live-hls-aje.getaj.net/AJE/06.m3u8
-#EXTINF:-1,ALJAZEERA UHD
-http://live-hls-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1,ALJAZEERA FHD
-http://live-hls-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1,ALJAZEERA HD
-http://live-hls-aja.getaj.net/AJA/03.m3u8
-#EXTINF:-1,ALJAZEERA SD
-http://live-hls-aja.getaj.net/AJA/04.m3u8
-#EXTINF:-1,ALJAZEERA SD
-http://live-hls-aja.getaj.net/AJA/05.m3u8
-#EXTINF:-1,ALJAZEERA LD
-http://live-hls-aja.getaj.net/AJA/06.m3u8
-#EXTINF:-1,Al JAZEERA MUBASHER UHD
-http://live-hls-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1,Al JAZEERA MUBASHER FHD
-http://live-hls-ajm.getaj.net/AJM/02.m3u8
-#EXTINF:-1,Al JAZEERA MUBASHER HD
-http://live-hls-ajm.getaj.net/AJM/03.m3u8
-#EXTINF:-1,Al JAZEERA MUBASHER SD
-http://live-hls-ajm.getaj.net/AJM/04.m3u8
-#EXTINF:-1,Al JAZEERA MUBASHER SD
-http://live-hls-ajm.getaj.net/AJM/05.m3u8
-#EXTINF:-1,Al JAZEERA MUBASHER LD
-http://live-hls-ajm.getaj.net/AJM/06.m3u8
-#EXTINF:-1,Al JAZEERA Balkan UHD
-https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
-#EXTINF:-1,Al JAZEERA Balkan FHD
-https://live-hls-web-ajb.getaj.net/AJB/02.m3u8
-#EXTINF:-1,Al JAZEERA Balkan HD
-https://live-hls-web-ajb.getaj.net/AJB/03.m3u8
-#EXTINF:-1,Al JAZEERA Balkan SD
-https://live-hls-web-ajb.getaj.net/AJB/04.m3u8
-#EXTINF:-1,Al JAZEERA Balkan SD
-https://live-hls-web-ajb.getaj.net/AJB/05.m3u8
-#EXTINF:-1,Al JAZEERA Balkan LD
-https://live-hls-web-ajb.getaj.net/AJB/06.m3u8
-
-
-#EXTINF:0 tvg-rec="3",Sky Sport Mix HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/5039/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Golf HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/5043/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/5042/index.m3u8
-#EXTINF:0 tvg-rec="3",SYFY HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6092/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2484/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Highlights HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2485/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Atlantic HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2488/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Family HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2489/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Classics HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2490/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Krimi HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2491/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Arts HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2494/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport News HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2477/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport 1 FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2478/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2479/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2480/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2492/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2503/index.m3u8
-#EXTINF:0 tvg-rec="3",ZDF HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6059/index.m3u8
-#EXTINF:0 tvg-rec="0",ZDFinfo HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/17042/index.m3u8
-#EXTINF:0 tvg-rec="3",VOX HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6061/index.m3u8
-#EXTINF:0 tvg-rec="3",Universal TV FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6094/index.m3u8
-#EXTINF:0 tvg-rec="3",Warner TV Serie HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6090/index.m3u8
-#EXTINF:0 tvg-rec="3",Warner TV Film DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6111/index.m3u8
-#EXTINF:0 tvg-rec="3",Toggo DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6063/index.m3u8
-#EXTINF:0 tvg-rec="3",Spiegel Geschichte FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6091/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 9 FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6097/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6113/index.m3u8
-#EXTINF:0 tvg-rec="3",Sat.1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6060/index.m3u8
-#EXTINF:0 tvg-rec="3",Nitro FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6064/index.m3u8
-#EXTINF:0 tvg-rec="3",RTL HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6062/index.m3u8
-#EXTINF:0 tvg-rec="3",RTL Zwei HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6065/index.m3u8
-#EXTINF:0 tvg-rec="3",ProSieben HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6057/index.m3u8
-#EXTINF:0 tvg-rec="3",ProSieben Maxx FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6058/index.m3u8
-#EXTINF:0 tvg-rec="3",Kabel Eins HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6067/index.m3u8
-#EXTINF:0 tvg-rec="3",Comedy Central HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6081/index.m3u8
-#EXTINF:0 tvg-rec="3",Motorvision TV DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6112/index.m3u8
-#EXTINF:0 tvg-rec="0",RTL Passion HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7230/index.m3u8
-#EXTINF:0 tvg-rec="0",Romance TV DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7231/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 2 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7234/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 3 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7235/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 4 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7236/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 5 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7237/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 6 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7238/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 7 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7239/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 8 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7240/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 9 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7241/index.m3u8
-#EXTINF:0 tvg-rec="0",Phoenix DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7255/index.m3u8
-#EXTINF:0 tvg-rec="0",Nat Geo Wild HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7256/index.m3u8
-#EXTINF:0 tvg-rec="0",Animal Planet HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7257/index.m3u8
-#EXTINF:0 tvg-rec="0",Welt DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7258/index.m3u8
-#EXTINF:0 tvg-rec="0",N-TV FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7259/index.m3u8
-#EXTINF:0 tvg-rec="0",Welt HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15169/index.m3u8
-#EXTINF:0 tvg-rec="0",SIXX HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15170/index.m3u8
-#EXTINF:0 tvg-rec="0",Arte DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15171/index.m3u8
-#EXTINF:0 tvg-rec="0",Das Erste HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15172/index.m3u8
-#EXTINF:0 tvg-rec="0",WDR HD (Aachen) DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15173/index.m3u8
-#EXTINF:0 tvg-rec="0",ProSieben Maxx HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15174/index.m3u8
-#EXTINF:0 tvg-rec="0",KiKA FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15175/index.m3u8
-#EXTINF:0 tvg-rec="0",ATV DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15176/index.m3u8
-#EXTINF:0 tvg-rec="0",ORF 1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15177/index.m3u8
-#EXTINF:0 tvg-rec="0",RTL Crime HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15178/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport 1 FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15179/index.m3u8
-#EXTINF:0 tvg-rec="0",HR FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15180/index.m3u8
-#EXTINF:0 tvg-rec="0",NDR HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15181/index.m3u8
-#EXTINF:0 tvg-rec="0",ARD Alpha FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/16058/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky One HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19000/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Crime HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19001/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Showcase HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19003/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Cinema Classics DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19005/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Replay HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19006/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Cinema Family FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19008/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Atlantic FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19009/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Cinema Highlights FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19013/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Cinema Premieren HD
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19014/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Cinema Classics FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19017/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Krimi FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19019/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Nature HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19020/index.m3u8
-
-
-#EXTINF:0 tvg-rec="0",Sky Documentaries HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19021/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport F1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19022/index.m3u8
-#EXTINF:0 tvg-rec="0",Sportdigital 1+ HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19023/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport F1 DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19027/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport 1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19028/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport 3 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19030/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport 4 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19031/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport 5 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19032/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport 6 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19033/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport 7 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19034/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport 8 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19035/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport 9 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19036/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport 10 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19037/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport Austria 4 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19038/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport 360 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19040/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19042/index.m3u8
-#EXTINF:0 tvg-rec="0",DAZN 2 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19043/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sport UHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19044/index.m3u8
-#EXTINF:0 tvg-rec="0",History HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20017/index.m3u8
-#EXTINF:0 tvg-rec="0",History FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20039/index.m3u8
-#EXTINF:0 tvg-rec="0",Discovery Channel HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20040/index.m3u8
-#EXTINF:0 tvg-rec="0",Cartoonito DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20042/index.m3u8
-#EXTINF:0 tvg-rec="0",Nick Jr. HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20043/index.m3u8
-#EXTINF:0 tvg-rec="0",Warner TV Film HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20045/index.m3u8
-#EXTINF:0 tvg-rec="0",#dabeiTV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31279/index.m3u8
-#EXTINF:0 tvg-rec="0",1-2-3.tv HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31280/index.m3u8
-#EXTINF:0 tvg-rec="0",13th Street HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31281/index.m3u8
-#EXTINF:0 tvg-rec="0",3sat HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31282/index.m3u8
-#EXTINF:0 tvg-rec="0",Al Jazeera English HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31283/index.m3u8
-#EXTINF:0 tvg-rec="0",Animal Planet FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31284/index.m3u8
-#EXTINF:0 tvg-rec="0",Anixe HD Serie DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31285/index.m3u8
-#EXTINF:0 tvg-rec="0",Anixe+ HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31286/index.m3u8
-#EXTINF:0 tvg-rec="0",ARD Alpha HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31287/index.m3u8
-#EXTINF:0 tvg-rec="0",Arte HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31288/index.m3u8
-#EXTINF:0 tvg-rec="0",Asharq News HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31289/index.m3u8
-#EXTINF:0 tvg-rec="0",Auto Motor und Sport FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31290/index.m3u8
-#EXTINF:0 tvg-rec="0",Ballermann TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31291/index.m3u8
-#EXTINF:0 tvg-rec="0",Bergblick HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31292/index.m3u8
-#EXTINF:0 tvg-rec="0",Bibel TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31293/index.m3u8
-#EXTINF:0 tvg-rec="0",BonGusto HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31296/index.m3u8
-#EXTINF:0 tvg-rec="0",BR Fernsehen HD (Süd) DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31297/index.m3u8
-#EXTINF:0 tvg-rec="0",Cartoon Network DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31298/index.m3u8
-#EXTINF:0 tvg-rec="0",Cartoonito HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31299/index.m3u8
-#EXTINF:0 tvg-rec="0",Channel 21 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31300/index.m3u8
-#EXTINF:0 tvg-rec="0",CNN International HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31301/index.m3u8
-#EXTINF:0 tvg-rec="0",Comedy Central FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31302/index.m3u8
-#EXTINF:0 tvg-rec="0",Craction HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31303/index.m3u8
-#EXTINF:0 tvg-rec="0",Crime + Investigation HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31304/index.m3u8
-#EXTINF:0 tvg-rec="0",Curiosity Channel HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31305/index.m3u8
-#EXTINF:0 tvg-rec="0",Das Erste DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31306/index.m3u8
-#EXTINF:0 tvg-rec="0",Deluxe Music FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31307/index.m3u8
-#EXTINF:0 tvg-rec="0",Deutsches Musik Fernsehen HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31308/index.m3u8
-#EXTINF:0 tvg-rec="0",DMAX HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31310/index.m3u8
-#EXTINF:0 tvg-rec="0",Euronews Deutsch DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31313/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport 1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31314/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport 2 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31315/index.m3u8
-#EXTINF:0 tvg-rec="0",Fashion TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31316/index.m3u8
-#EXTINF:0 tvg-rec="0",Folx Music Television HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31317/index.m3u8
-#EXTINF:0 tvg-rec="0",France 24 English HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31318/index.m3u8
-#EXTINF:0 tvg-rec="0",France 24 Francais HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31319/index.m3u8
-#EXTINF:0 tvg-rec="0",GEO Television HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31321/index.m3u8
-#EXTINF:0 tvg-rec="0",Heimatkanal DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31322/index.m3u8
-#EXTINF:0 tvg-rec="0",HGTV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31323/index.m3u8
-#EXTINF:0 tvg-rec="0",HR HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31324/index.m3u8
-#EXTINF:0 tvg-rec="0",HSE HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31325/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Inplus HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31326/index.m3u8
-#EXTINF:0 tvg-rec="0",Jukebox HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31327/index.m3u8
-#EXTINF:0 tvg-rec="0",K-TV DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31328/index.m3u8
-#EXTINF:0 tvg-rec="0",Kabel Eins DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31329/index.m3u8
-#EXTINF:0 tvg-rec="0",Kabel Eins Classics HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31330/index.m3u8
-#EXTINF:0 tvg-rec="0",Kabel Eins Doku HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31331/index.m3u8
-#EXTINF:0 tvg-rec="0",KiKA HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31332/index.m3u8
-#EXTINF:0 tvg-rec="0",KinoweltTV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31333/index.m3u8
-#EXTINF:0 tvg-rec="0",Magenta Musik 1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31335/index.m3u8
-#EXTINF:0 tvg-rec="0",Magenta Musik 2 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31336/index.m3u8
-#EXTINF:0 tvg-rec="0",Magenta Sport HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31337/index.m3u8
-#EXTINF:0 tvg-rec="0",Marco Polo TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31339/index.m3u8
-#EXTINF:0 tvg-rec="0",MDR Fernsehen HD (Sachsen) DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31340/index.m3u8
-#EXTINF:0 tvg-rec="0",More Than Sports TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31341/index.m3u8
-#EXTINF:0 tvg-rec="0",MyTeam TV 1 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31343/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31344/index.m3u8
-#EXTINF:0 tvg-rec="0",N-TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31345/index.m3u8
-#EXTINF:0 tvg-rec="0",N24 Doku HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31346/index.m3u8
-#EXTINF:0 tvg-rec="0",Nat Geo Wild FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31348/index.m3u8
-#EXTINF:0 tvg-rec="0",NDR HD (Niedersachsen) DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31349/index.m3u8
-#EXTINF:0 tvg-rec="0",KiKA DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31350/index.m3u8
-#EXTINF:0 tvg-rec="0",Nick/Comedy Central+1 DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31351/index.m3u8
-#EXTINF:0 tvg-rec="0",Nitro HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31352/index.m3u8
-#EXTINF:0 tvg-rec="0",One HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31353/index.m3u8
-#EXTINF:0 tvg-rec="0",One Music Television HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31354/index.m3u8
-#EXTINF:0 tvg-rec="0",OUTtv HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31355/index.m3u8
-#EXTINF:0 tvg-rec="0",Phoenix HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31357/index.m3u8
-#EXTINF:0 tvg-rec="0",ProSieben FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31359/index.m3u8
-#EXTINF:0 tvg-rec="0",ProSieben Fun HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31360/index.m3u8
-#EXTINF:0 tvg-rec="0",ProSieben Maxx DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31361/index.m3u8
-#EXTINF:0 tvg-rec="0",QVC HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31362/index.m3u8
-#EXTINF:0 tvg-rec="0",Radio Bremen TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31363/index.m3u8
-#EXTINF:0 tvg-rec="0",rbb Fernsehen HD (Berlin) DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31364/index.m3u8
-#EXTINF:0 tvg-rec="0",Red Bull TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31365/index.m3u8
-#EXTINF:0 tvg-rec="0",RiC HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31366/index.m3u8
-#EXTINF:0 tvg-rec="0",Romance TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31367/index.m3u8
-#EXTINF:0 tvg-rec="0",RTL FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31368/index.m3u8
-#EXTINF:0 tvg-rec="0",RTL Passion DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31369/index.m3u8
-#EXTINF:0 tvg-rec="0",RTL Passion FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31370/index.m3u8
-#EXTINF:0 tvg-rec="0",Tagesschau24 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31371/index.m3u8
-#EXTINF:0 tvg-rec="0",Sat.1 Gold HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31378/index.m3u8
-#EXTINF:0 tvg-rec="0",Schlager Deluxe HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31379/index.m3u8
-#EXTINF:0 tvg-rec="0",Sat.1 DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31380/index.m3u8
-#EXTINF:0 tvg-rec="0",Sat.1 Emotions HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31381/index.m3u8
-#EXTINF:0 tvg-rec="0",Sat.1 Gold DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31382/index.m3u8
-#EXTINF:0 tvg-rec="0",Schlager Deluxe DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31383/index.m3u8
-#EXTINF:0 tvg-rec="0",Schlagerparadies.TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31384/index.m3u8
-#EXTINF:0 tvg-rec="0",Servus TV Motorsport HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31385/index.m3u8
-#EXTINF:0 tvg-rec="0",Shop LC HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31387/index.m3u8
-#EXTINF:0 tvg-rec="0",SIXX FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31388/index.m3u8
-#EXTINF:0 tvg-rec="0",Sonnenklar.TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31389/index.m3u8
-#EXTINF:0 tvg-rec="0",Spiegel Geschichte HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31392/index.m3u8
-#EXTINF:0 tvg-rec="0",MyTeam TV 18 HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31402/index.m3u8
-#EXTINF:0 tvg-rec="0",Sportdigital 1+ DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31411/index.m3u8
-#EXTINF:0 tvg-rec="0",Sportdigital Fussball FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31413/index.m3u8
-#EXTINF:0 tvg-rec="0",SR Fernsehen HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31414/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray Classica HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31415/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray DJAZZ HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31416/index.m3u8
-#EXTINF:0 tvg-rec="0",Stingray iConcerts HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31417/index.m3u8
-#EXTINF:0 tvg-rec="0",SWR Fernsehen BW HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31419/index.m3u8
-#EXTINF:0 tvg-rec="0",SWR Fernsehen RP HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31420/index.m3u8
-#EXTINF:0 tvg-rec="0",History DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31424/index.m3u8
-#EXTINF:0 tvg-rec="0",Toggo Plus HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31426/index.m3u8
-#EXTINF:0 tvg-rec="0",TravelXP HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31427/index.m3u8
-#EXTINF:0 tvg-rec="0",TV5 Monde Europe HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31428/index.m3u8
-#EXTINF:0 tvg-rec="0",Universal TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31429/index.m3u8
-#EXTINF:0 tvg-rec="0",Volksmusik.TV HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31430/index.m3u8
-#EXTINF:0 tvg-rec="0",VOX DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31431/index.m3u8
-#EXTINF:0 tvg-rec="0",VOXup DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31432/index.m3u8
-#EXTINF:0 tvg-rec="0",Warner TV Comedy HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31433/index.m3u8
-#EXTINF:0 tvg-rec="0",Warner TV Film FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31434/index.m3u8
-
-#EXTINF:0 tvg-rec="0",WDR HD (Köln) DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31436/index.m3u8
-#EXTINF:0 tvg-rec="0",WedoTV Movies HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31437/index.m3u8
-#EXTINF:0 tvg-rec="0",Welt FHD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31438/index.m3u8
-#EXTINF:0 tvg-rec="0",Welt der Wunder HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31439/index.m3u8
-#EXTINF:0 tvg-rec="0",Wetter.com DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31440/index.m3u8
-#EXTINF:0 tvg-rec="0",ZDF DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31441/index.m3u8
-#EXTINF:0 tvg-rec="0",ZDFinfo DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31442/index.m3u8
-#EXTINF:0 tvg-rec="0",ZDFneo HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31443/index.m3u8
-#EXTINF:0 tvg-rec="0",Zwei Music Television HD DE
-#EXTGRP:Play Tv | Germany
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31444/index.m3u8
-
-
-#EXTINF:0 tvg-rec="3",Food Network HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1107/index.m3u8
-#EXTINF:0 tvg-rec="3",Tennis Channel FHD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6096/index.m3u8
-#EXTINF:0 tvg-rec="3",MoreMax HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6152/index.m3u8
-#EXTINF:0 tvg-rec="3",ThrillerMax HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6153/index.m3u8
-#EXTINF:0 tvg-rec="3",OuterMax HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6154/index.m3u8
-#EXTINF:0 tvg-rec="3",MovieMax HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6155/index.m3u8
-#EXTINF:0 tvg-rec="0",NHL Network US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7225/index.m3u8
-#EXTINF:0 tvg-rec="0",NBA TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7226/index.m3u8
-#EXTINF:0 tvg-rec="3",ION Television HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/901/index.m3u8
-#EXTINF:0 tvg-rec="3",NYCTV Life HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/902/index.m3u8
-#EXTINF:0 tvg-rec="3",CBS New York
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/903/index.m3u8
-#EXTINF:0 tvg-rec="3",Hallmark Movies & Mysteries HD
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1075/index.m3u8
-#EXTINF:0 tvg-rec="3",Telemundo HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1080/index.m3u8
-#EXTINF:0 tvg-rec="3",NBC New York HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1081/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney XD HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1082/index.m3u8
-#EXTINF:0 tvg-rec="3",AMC HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1083/index.m3u8
-#EXTINF:0 tvg-rec="3",HGTV FHD
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1084/index.m3u8
-#EXTINF:0 tvg-rec="3",truTV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1085/index.m3u8
-#EXTINF:0 tvg-rec="3",MAVTV HD
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1074/index.m3u8
-#EXTINF:0 tvg-rec="3",ABC HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1087/index.m3u8
-#EXTINF:0 tvg-rec="3",Fox 5 WNYW HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1086/index.m3u8
-#EXTINF:0 tvg-rec="3",MY9 New Jersey HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1088/index.m3u8
-#EXTINF:0 tvg-rec="3",MotorTrend HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1091/index.m3u8
-#EXTINF:0 tvg-rec="3",BBC America HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1092/index.m3u8
-#EXTINF:0 tvg-rec="3",WPIX HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1090/index.m3u8
-#EXTINF:0 tvg-rec="3",Thirteen HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1093/index.m3u8
-#EXTINF:0 tvg-rec="3",WLIW HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1094/index.m3u8
-#EXTINF:0 tvg-rec="3",New Jersey PBS HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1095/index.m3u8
-#EXTINF:0 tvg-rec="3",MeTV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1096/index.m3u8
-#EXTINF:0 tvg-rec="3",WMBC-TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1098/index.m3u8
-#EXTINF:0 tvg-rec="3",Univision HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1099/index.m3u8
-#EXTINF:0 tvg-rec="3",UniMás HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1100/index.m3u8
-#EXTINF:0 tvg-rec="3",USA HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1101/index.m3u8
-#EXTINF:0 tvg-rec="3",TNT HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1102/index.m3u8
-#EXTINF:0 tvg-rec="3",TBS US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1103/index.m3u8
-#EXTINF:0 tvg-rec="3",TLC HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1105/index.m3u8
-#EXTINF:0 tvg-rec="3",FXM Retro HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1106/index.m3u8
-#EXTINF:0 tvg-rec="3",A&E US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1108/index.m3u8
-#EXTINF:0 tvg-rec="3",CNBC HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/962/index.m3u8
-#EXTINF:0 tvg-rec="0",Fox Sports 1 HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7322/index.m3u8
-#EXTINF:0 tvg-rec="0",Fox Sports 2 HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7323/index.m3u8
-#EXTINF:0 tvg-rec="0",CBS Sports Network HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7324/index.m3u8
-#EXTINF:0 tvg-rec="0",MSG HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7325/index.m3u8
-#EXTINF:0 tvg-rec="0",MSG 2 HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7326/index.m3u8
-#EXTINF:0 tvg-rec="0",NBC Sports Network HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7327/index.m3u8
-#EXTINF:0 tvg-rec="0",NHL Network HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7328/index.m3u8
-#EXTINF:0 tvg-rec="0",SportsNet New York HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/11107/index.m3u8
-#EXTINF:0 tvg-rec="0",Spectrum SportsNet HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/11108/index.m3u8
-#EXTINF:0 tvg-rec="0",NESN HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/11109/index.m3u8
-#EXTINF:0 tvg-rec="0",A&E HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30001/index.m3u8
-
-
-#EXTINF:0 tvg-rec="0",American Heroes Channel HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30007/index.m3u8
-#EXTINF:0 tvg-rec="0",AXS TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30011/index.m3u8
-#EXTINF:0 tvg-rec="0",BabyFirst TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30012/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports En Español HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30015/index.m3u8
-#EXTINF:0 tvg-rec="0",BET Her HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30018/index.m3u8
-#EXTINF:0 tvg-rec="0",Bravo HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30024/index.m3u8
-#EXTINF:0 tvg-rec="0",C-SPAN 2 HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30026/index.m3u8
-#EXTINF:0 tvg-rec="0",C-SPAN 3 HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30027/index.m3u8
-#EXTINF:0 tvg-rec="0",C-SPAN HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30028/index.m3u8
-#EXTINF:0 tvg-rec="0",Cars.TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30030/index.m3u8
-#EXTINF:0 tvg-rec="0",Cheddar News HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30035/index.m3u8
-#EXTINF:0 tvg-rec="0",Comedy Central HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30044/index.m3u8
-#EXTINF:0 tvg-rec="0",Cooking Channel HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30045/index.m3u8
-#EXTINF:0 tvg-rec="0",Crime + Investigation HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30046/index.m3u8
-#EXTINF:0 tvg-rec="0",Destination America HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30051/index.m3u8
-#EXTINF:0 tvg-rec="0",Discovery Channel HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30052/index.m3u8
-#EXTINF:0 tvg-rec="0",Discovery Family HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30055/index.m3u8
-#EXTINF:0 tvg-rec="0",Discovery Life HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30056/index.m3u8
-#EXTINF:0 tvg-rec="0",E! HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30060/index.m3u8
-#EXTINF:0 tvg-rec="0",ESPN Deportes HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30063/index.m3u8
-#EXTINF:0 tvg-rec="0",ESPNews HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30066/index.m3u8
-#EXTINF:0 tvg-rec="0",ESPNU HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30067/index.m3u8
-#EXTINF:0 tvg-rec="0",Flix HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30071/index.m3u8
-#EXTINF:0 tvg-rec="0",Fox Deportes HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30075/index.m3u8
-#EXTINF:0 tvg-rec="0",Fox News Channel HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30076/index.m3u8
-#EXTINF:0 tvg-rec="0",Fox Sports 2 US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30078/index.m3u8
-#EXTINF:0 tvg-rec="0",Fuse HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30081/index.m3u8
-#EXTINF:0 tvg-rec="0",FX HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30082/index.m3u8
-#EXTINF:0 tvg-rec="0",FYI HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30085/index.m3u8
-#EXTINF:0 tvg-rec="0",Golf Channel HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30089/index.m3u8
-#EXTINF:0 tvg-rec="0",Game Show Network HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30091/index.m3u8
-#EXTINF:0 tvg-rec="0",HDNet Movies HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30102/index.m3u8
-#EXTINF:0 tvg-rec="0",History HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30105/index.m3u8
-#EXTINF:0 tvg-rec="0",HSN HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30109/index.m3u8
-#EXTINF:0 tvg-rec="0",HSN2 HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30110/index.m3u8
-#EXTINF:0 tvg-rec="0",i24 News HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30111/index.m3u8
-#EXTINF:0 tvg-rec="0",Jewelry TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30119/index.m3u8
-#EXTINF:0 tvg-rec="0",Justice Central.TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30120/index.m3u8
-#EXTINF:0 tvg-rec="0",Lifetime HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30122/index.m3u8
-#EXTINF:0 tvg-rec="0",LMN HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30124/index.m3u8
-#EXTINF:0 tvg-rec="0",Logo HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30126/index.m3u8
-#EXTINF:0 tvg-rec="0",Movieplex HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30142/index.m3u8
-#EXTINF:0 tvg-rec="0",Spectrum News 1 NY HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30148/index.m3u8
-#EXTINF:0 tvg-rec="0",Altitude Sports HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31000/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Arizona HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31001/index.m3u8
-#EXTINF:0 tvg-rec="0",MTV2 HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31002/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Detroit HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31003/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Detroit Plus HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31004/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Florida HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31005/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Florida Plus HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31006/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Great Lakes HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31007/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Oklahoma HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31008/index.m3u8
-#EXTINF:0 tvg-rec="0",Newsmax TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31009/index.m3u8
-#EXTINF:0 tvg-rec="0",NFL Network US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31011/index.m3u8
-#EXTINF:0 tvg-rec="0",NFL RedZone HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31012/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31013/index.m3u8
-#EXTINF:0 tvg-rec="0",Nick Jr. HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31014/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports New Orleans HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31015/index.m3u8
-#EXTINF:0 tvg-rec="0",NickToons HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31016/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports North HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31017/index.m3u8
-#EXTINF:0 tvg-rec="0",Outdoor Channel US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31018/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31019/index.m3u8
-#EXTINF:0 tvg-rec="0",Ovation TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31020/index.m3u8
-#EXTINF:0 tvg-rec="0",OWN HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31021/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cincinnati HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31022/index.m3u8
-#EXTINF:0 tvg-rec="0",Paramount Network HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31029/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cleveland HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31030/index.m3u8
-#EXTINF:0 tvg-rec="0",ION Mystery HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31031/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports San Diego HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31032/index.m3u8
-#EXTINF:0 tvg-rec="0",Pets.TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31033/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports SoCal HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31034/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Southeast HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31035/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31036/index.m3u8
-#EXTINF:0 tvg-rec="0",QVC HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31037/index.m3u8
-#EXTINF:0 tvg-rec="0",QVC2 HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31038/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest Plus HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31039/index.m3u8
-#EXTINF:0 tvg-rec="0",Recipe.TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31040/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Sun HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31041/index.m3u8
-#EXTINF:0 tvg-rec="0",Retroplex HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31042/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports West HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31043/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports West Plus HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31044/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31046/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin Plus HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31047/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31048/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports 2 US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31049/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports 3 US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31050/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports 4 US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31051/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports 5 US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31052/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports 6 US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31053/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Sports 7 US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31054/index.m3u8
-#EXTINF:0 tvg-rec="0",Monumental Sports Network HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31056/index.m3u8
-#EXTINF:0 tvg-rec="0",Smithsonian Channel HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31061/index.m3u8
-#EXTINF:0 tvg-rec="0",TBS HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31083/index.m3u8
-#EXTINF:0 tvg-rec="0",TCM HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31084/index.m3u8
-#EXTINF:0 tvg-rec="0",TeenNick HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31085/index.m3u8
-#EXTINF:0 tvg-rec="0",Tennis Channel HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31089/index.m3u8
-#EXTINF:0 tvg-rec="0",TLC US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31098/index.m3u8
-#EXTINF:0 tvg-rec="0",TUDN HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31103/index.m3u8
-#EXTINF:0 tvg-rec="0",FanDuel TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31110/index.m3u8
-#EXTINF:0 tvg-rec="0",Universal Kids HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31120/index.m3u8
-#EXTINF:0 tvg-rec="0",Universo HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31121/index.m3u8
-#EXTINF:0 tvg-rec="0",Up TV HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31123/index.m3u8
-#EXTINF:0 tvg-rec="0",USA US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31124/index.m3u8
-#EXTINF:0 tvg-rec="0",Vice HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31126/index.m3u8
-#EXTINF:0 tvg-rec="0",Willow HD US
-#EXTGRP:Play Tv  | USA
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31131/index.m3u8
-
-
-#EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9310/index.m3u8
-#EXTINF:0 tvg-rec="3",Premier Sports 1 HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2160/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9293/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9283/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9335/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9248/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9314/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9308/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky History HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/16037/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Football HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9289/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Cricket HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9258/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9334/index.m3u8
-#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2505/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9155/index.m3u8
-#EXTINF:0 tvg-rec="0",ITVBe UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19190/index.m3u8
-#EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2506/index.m3u8
-#EXTINF:0 tvg-rec="3",Premier Sports 1 HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6555/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 2 HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6556/index.m3u8
-#EXTINF:0 tvg-rec="3",TNT Sports 3 HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6564/index.m3u8
-#EXTINF:0 tvg-rec="3",TNT Sports 1 HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6566/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports Premier League HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7335/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports Football HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7336/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7337/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7339/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports Action HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7340/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports Racing HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7341/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports F1 HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7342/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports Cricket HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7343/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7344/index.m3u8
-#EXTINF:0 tvg-rec="0",ITV1 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19185/index.m3u8
-#EXTINF:0 tvg-rec="0",ITV2 HD UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19186/index.m3u8
-#EXTINF:0 tvg-rec="0",ITV3 +1 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19187/index.m3u8
-#EXTINF:0 tvg-rec="0",ITV4 +1 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19188/index.m3u8
-#EXTINF:0 tvg-rec="0",ITV4 UK
-#EXTGRP:Play Tv | United Kingdom
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19189/index.m3u8
-
 #EXTINF:-1 group-title="XXX",BABES TV
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="XXX",BABES TV
@@ -7649,8 +6145,1506 @@ https://vid1.hlsvideo.uk/236719bfaf8f/mk0rDYOfU27hpHN9eoMhCg/kjhhiuahiuhgihdf/17
 https://vid1.hlsvideo.uk/236719bfaf8f/o8e-xhkFDbAogNpbxJDdgQ/kjhhiuahiuhgihdf/1780426126/72532108/index-f2-v1-a1.m3u8
 #EXTINF:-1 tvg-logo="https://www.caribbeancom.com/moviepages/071726-001/images/l_l.jpg" group-title="SIN CENSURA",071726-001 しまくり先生 私みたいにやるの！！ ~お口いっぱいに出されるザーメンを連続ゴックン先生~ 夏目りんか 小川桃果
 https://vid1.hlsvideo.uk/236719bfaf8f/o9FYWZolA-dvMAeFLrgRKw/kjhhiuahiuhgihdf/1784351576/73313189/index-f2-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_us_1.png" group-title="SPORT",FS 1 SPORT
+http://212.102.60.10/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nfl_network_us.png" group-title="SPORT",NFL Network -us
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/impact-tv-network-us.png" group-title="SPORT",TNA Wrestling - us
+https://d3mwqwqfak7y2q.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/746ed714-f5bd-407e-8b74-fed717358111/3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/stv-uk.svg" group-title="SPORT",Swerve Sport -us
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-sports-pk.png" group-title="SPORT",A Sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aek-super-league-pass-gr.png" group-title="SPORT",AfrroSport
+https://newproxy3.vidivu.tv/vidivu_afrosport/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/gsXeBG53UMTjrXK69" group-title="SPORT",FIFA TV
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/ca4819ac-3159-43e5-91bb-44c4036a1746/4.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/w-sport.svg" group-title="SPORT",Women's Sports Network
+https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/cb5434176573638d84c83a67cef043a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7554db80148b61299bce8c37683f03409a5e5afba358b1ebe65d40de6ca6e31e55977d42ef9f43c8821ca6d1d40d9b5ed774f815c892a483d3418a8ff30093738a80cd8a430df8fa1bb7ec1fd1fd9f7b349d7f31346f3f8486a68e82b81b25393addead9b075fa69aec345d3245f1361e9813c0f9c446c208798266cd181dbd90319eea97e7435aff5a5c5d93021b16ff59824bc1973b4f90e714bc56c97776568d0b5fc1d8ac71a81a563ab80294c688ec11edbaabb8db9e4d60a84739e8eb4b92d52426633078476ab8e228e7a8a36fb98536977657080b619848ad055352268838355db5a5b9ad3998cd20b749b334d14b82e8915552cff356a7df724b6cf6f3bc7755cf74057916f3c8e46f3af3fb5f68b976115819e9612b13f95f660b4d10da66a305c78c3d1244d4a417890a3263a3977c74af3c08886530c13e7e3c2eeca3069566c0f33ecea2a62fe3be80997f7a2ca9dcff22e1ce4569ec49537/115/1280x720_2657019/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/XbSJL1KzVipDogR76" group-title="SPORT",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORT",BeiN Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png" group-title="SPORT",BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-1-fr.svg" group-title="SPORT",EUROSPORT 1 🇪🇸
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-2-fr.svg" group-title="SPORT",EUROSPORT 2 🇪🇸
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-2-us.svg" group-title="SPORT",ESPN 2 co
+http://190.102.246.93:9005/play/a029
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.svg" group-title="SPORT",ESPN 3 co
+http://190.102.246.93:9005/play/a02l
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-premium-us-ar.svg" group-title="SPORT",ESPN PREMIUM 🇦🇷
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-sport-1-rs.png" group-title="SPORT",Arenasport 1 cz
+http://78.130.250.2:8023/play/a02o/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-uz.png" group-title="SPORT",BORDO SPORT
+https://srv.webtvmanager.fr:3225/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportitalia-plus-it.png" group-title="SPORT",SPORT ITALIA
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportitalia-solocalcio-it.svg" group-title="SPORT",SPORT ITALIA LIVE
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-1-ca.svg" group-title="SPORT",TSN 1 🇨🇦
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-2-ca.svg" group-title="SPORT",TSN 2 🇨🇦
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-3-ca.svg" group-title="SPORT",TSN 3 🇨🇦
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 tvg-shift="ca" tvg-name="ca" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-5-ca.svg" group-title="SPORT",TSN5 ca
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-3-ca.svg" group-title="SPORT",TSN 4 ca
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsn-3-ca.svg" group-title="SPORT",TSN 5 ca
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/itv-1-uk.svg" group-title="SPORT",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it_480p.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-deportes-5-es.png" group-title="SPORT",ITV DEPORTES 🇲🇽
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kplus-sport-1-vn.png" group-title="SPORT",KCMN-LD6 - us
+https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/cb573d197d6c668d84c83b61cef54182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ace25b44d93af4e3014a932642fa83439fd401b2d2d20f8342d773f212c8c4f0d8d641d7e4d459896f29ca7b224049abc21fa7dc4fbddf831b56f61309756e9e623ef1842a1d954e422695970915178d74e38c3f88743bb242e82754d3f919c85af49b288da8a9cc4b4f73c3ae3e3274f2b5f0d8bd5d9bdc17c07336518d40bbd66d2be31823d6790a18da92ee0196cc0593f90a96a068133ad59d7f56fcd88cc2bf97439029cb88a1d66d0206540d0c8252b5892df51d9d29f880437a1c7a4da3cc019fc6c108642b0fa7904ed8162cbcd9a08acb416e99375509be2091702d58e118203ce924f29f7c4b8c25018a7c7dd850278f4ff9f77da6f295b5486bfb8e8771fe69eea7039da351fe236f0f70c69846684c4279dff9754d6129b122cae78ab027475096b4a798e75c37003512287ca8eaf57f968b80645d21c85d226f630355f120d37ad414461024aa4f81ff11156567fbca4807595aaccb8efc0892896d88c62d049f8733/123/854x480_1821204/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-fr.png" group-title="SPORT",Sport France - fr
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/l-tv-de.png" group-title="SPORT",Lacrosse TV - us
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE_v3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-connect-za.png" group-title="SPORT",Sports Connect
+https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/abr_satellitechannel/satch_sportsconnect_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/canal-plus-sport-czechia-lu-cz.svg" group-title="SPORT",Canal+ Sport
+http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fr-hd-iq.png" group-title="SPORT",World of Freesports
+https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/cb573d197d6c668d84c83b61cef54182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7ffe05c47dc6ef4e0014a932642fa83439fd401ead4d65a8347d771f0139890a483811480e4d459896f29ca7b224049abc21fa7dc4fbddf831b56f61309756e9e623ef1842a1d954e422695970915178d74e38c3f88743bb242e82754d3f919c85af49b288da8a9cc4b4f73c3ae3e3274f2b5f0d8bd5d9bdc17c07336518d40bbd66d2be31823d6790a18da92ee0196cc0593f90a96a068133ad59d7f56fcd88cc2bf97439029cb88a1d66d0206540d0c8252b5892df51d9d29f880437a1c7a4da3cc019fc6c108642b0fa7904ed8162cbcd9a08acb416e99375509be2091702d58e118203ce924f29f7c4b8c25018a7c7dd850278f4ff9f77da6f295b5486bfb8e8771fe69eea7039da351fe236f0f70c69846684c4279dff9754d6129b122cae78ab027475096b4a798e75c37003512287ca8eaf57f968b80645d21c85d226f630355f120d37ad414461024ab4786b46894e492c58346c1d604d29564dd6de551989660d8d15cc5/95/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match-ru.svg" group-title="SPORT",Матч! Футбол 3 HD 🇷🇺
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta-sport-af.png" group-title="SPORT",RTA Sports HD Ban Vs AFG
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png" group-title="SPORT",Ten Sports PK
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/ss/stv-ru.png" group-title="SPORT",SPORT RU 🇷🇺
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv-uk.svg" group-title="SPORT",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/real_madrid_tv_es_english.png" group-title="SPORT",REAL MADRID TV 🇪🇸
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/infosport-plus-fr.png" group-title="SPORT",INFOSPORT 🇫🇷
+http://212.102.60.80/Infosport/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="SPORT",Sony Ten 1 HD 🇮🇳
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkmenistan-sport-tm.png" group-title="SPORT",Turkmenistan Sport 🇹🇲
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/xx/x-sport-ua.png" group-title="SPORT",X SPORT 🇷🇺
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge-sport-uk.svg" group-title="SPORT",Edge SPORT
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace-sport-stars-fr.png" group-title="SPORT",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png" group-title="SPORT",Bahrein Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1637718623_b1307000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="SPORT",Dubai Sport 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="SPORT",Dubai Sport 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png" group-title="SPORT",Dubai Sport 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman_tv_sport.png" group-title="SPORT",OMAN SPORT
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-hd-usa-us.png" group-title="SİNEMA",MGM+East
+http://fl3.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgm-plus-marquee-us.png" group-title="SİNEMA",MGM+ Marquee
+http://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-movies-us.png" group-title="SİNEMA",Lifetime Movies
+http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/pp/paramount-international-networks-us.png" group-title="SİNEMA",Paramount Channel
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fmn_id.png" group-title="SİNEMA",FXM
+http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5fdbc1d5682ee122a7a5aa20/05ccca03-95b6-4a13-a888-dc3c0327bce4/revry+logo+with+tag.png?format=1500w" group-title="SİNEMA",Revry 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/tt/the-groove-us.svg" group-title="SİNEMA",Groovy TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cleo-tv-us.png" group-title="SİNEMA",Cleo TV (720p)
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="SİNEMA",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abn_in.png" group-title="SİNEMA",ABN Bible Movies
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="SİNEMA",AMC East
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/osn-tv-movies-horror-ae.png" group-title="SİNEMA",American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema-tr.png" group-title="SİNEMA",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifetime-movies-us.png" group-title="SİNEMA",Lifetime Movies
+http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_westerns_east.png" group-title="SİNEMA",CINÉ WESTERN
+https://d1rmn2456fdhrx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cj5v6orcb1e6m/e6540a94-93a6-4b38-bb2d-eafe9fa047e2/2.m3u8
 
 
+#EXTINF:-1,AZ:ALVİN CHANNEL TV
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1,AZ:KEPEZ TV (GENCE)
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1,AZ:EL TV (YEVLAX)
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF:-1,AZ:NAXCIVAN TV
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF:-1,AZ:SES TV
+http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
+#EXTINF:-1,AZ:QEBELE TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1,AZ:INTERAZ TV
+http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
+#EXTINF:-1,AZ:BAKU TV SD
+https://rtmp.baku.tv/live/bakutv_360p.m3u8
+#EXTINF:-1,AZ:MUGAN TV AZ
+http://server002.dreamstar.ru.com/azerbaijan/mugan/playlist.m3u8
+#EXTINF:-1,AZ:UMID TV SD 360
+https://cdn-umudtv.yayin.com.tr/umudtv/umudtv_360p/playlist.m3u8
+#EXTINF:-1,AZ:GUNAZ TV
+http://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/feed03/chunklist_w.m3u8
+#EXTINF:-1,AZ:HADI TV AZ
+https://live.ishiacloud.com/eNKFSxPMUbQFq5fP_480p/index.m3u8
+#EXTINF:-1,AZ:AN.T HD
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF:-1,AZ:AZSTAR TV SD 240 p
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:-1,AZ:AL-ZAHRA TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1,AZ:ON4
+http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
+#EXTINF:-1,AZ:KANAL 12 AZ
+http://yayin.netradyom.com:1935/live/kanal12/chunklist_w.m3u8
+#EXTINF:-1,AZ:LIVETV AZ
+http://server002.dreamstar.ru.com/azerbaijan/livetv/playlist.m3u8
+#EXTINF:-1,AZ:APA TV
+https://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1,AZ:MEDIA FM AZ
+http://server002.dreamstar.ru.com/mediafm/live/playlist.m3u8
+#EXTINF:-1,AZE:AZAD AZE
+http://server1.dreamstar.ru.com/azerbaijan/atv_sd_stream4/playlist.m3u8
+#EXTINF:-1,AZE:MUZ TV AZE
+http://server002.dreamstar.ru.com/azerbaijan/muztv/playlist.m3u8
+#EXTINF:-1,AZE:MEDENIYYET TV
+http://server1.dreamstar.ru.com/azerbaijan/medeniyyet_stream2/playlist.m3u8
+#EXTINF:-1,AZE:ICTIMAI TV
+http://server1.dreamstar.ru.com/azerbaijan/ictimai_stream2/playlist.m3u8
+#EXTINF:-1,AZE:AZTV
+http://server1.dreamstar.ru.com/azerbaijan/aztv_stream2/playlist.m3u8
+#EXTINF:-1,AZE:CBC SPORT HD
+http://server002.dreamstar.ru.com/azerbaijan/cbc_sport/playlist.m3u8
+#EXTINF:-1,AZE:CBC TV AZ
+http://server002.dreamstar.ru.com/azerbaijan/cbc/playlist.m3u8
+#EXTINF:-1,AZE:XEZER TV
+http://server1.dreamstar.ru.com/azerbaijan/xazar_sd_stream_2/playlist.m3u8
+#EXTINF:-1,AZE:SPACE TV
+http://server1.dreamstar.ru.com/azerbaijan/space_stream/playlist.m3u8
+#EXTINF:-1,AZE:DUNYA TV
+http://server002.dreamstar.ru.com/azerbaijan/dunya/playlist.m3u8
+#EXTINF:-1,AZE:REAL TV
+http://server002.dreamstar.ru.com/azerbaijan/real/playlist.m3u8
+#EXTINF:-1,AZE:ARB TV
+http://server002.dreamstar.ru.com/azerbaijan/arb/playlist.m3u8
+#EXTINF:-1,AZE:ARB24
+http://server002.dreamstar.ru.com/azerbaijan/24/playlist.m3u8
+#EXTINF:-1,AZE:ARB GUNES
+http://server1.dreamstar.ru.com/azerbaijan/gunes/playlist.m3u8
+
+#EXTINF:-1 ,RO:EST TV Neamt
+http://89.38.8.130:39435
+#EXTINF:-1 ,RO:TV SE
+http://89.38.8.130:39419
+#EXTINF:-1 ,RO:TVPlus Suceava
+http://85.186.146.34:8080
+
+#EXTINF:-1,Al JAZEERA English UHD
+http://live-hls-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,Al JAZEERA English FHD
+http://live-hls-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1,Al JAZEERA English HD
+http://live-hls-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1,Al JAZEERA English SD
+http://live-hls-aje.getaj.net/AJE/04.m3u8
+#EXTINF:-1,Al JAZEERA English SD
+http://live-hls-aje.getaj.net/AJE/05.m3u8
+#EXTINF:-1,Al JAZEERA English LD
+http://live-hls-aje.getaj.net/AJE/06.m3u8
+#EXTINF:-1,ALJAZEERA UHD
+http://live-hls-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1,ALJAZEERA FHD
+http://live-hls-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1,ALJAZEERA HD
+http://live-hls-aja.getaj.net/AJA/03.m3u8
+#EXTINF:-1,ALJAZEERA SD
+http://live-hls-aja.getaj.net/AJA/04.m3u8
+#EXTINF:-1,ALJAZEERA SD
+http://live-hls-aja.getaj.net/AJA/05.m3u8
+#EXTINF:-1,ALJAZEERA LD
+http://live-hls-aja.getaj.net/AJA/06.m3u8
+#EXTINF:-1,Al JAZEERA MUBASHER UHD
+http://live-hls-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1,Al JAZEERA MUBASHER FHD
+http://live-hls-ajm.getaj.net/AJM/02.m3u8
+#EXTINF:-1,Al JAZEERA MUBASHER HD
+http://live-hls-ajm.getaj.net/AJM/03.m3u8
+#EXTINF:-1,Al JAZEERA MUBASHER SD
+http://live-hls-ajm.getaj.net/AJM/04.m3u8
+#EXTINF:-1,Al JAZEERA MUBASHER SD
+http://live-hls-ajm.getaj.net/AJM/05.m3u8
+#EXTINF:-1,Al JAZEERA MUBASHER LD
+http://live-hls-ajm.getaj.net/AJM/06.m3u8
+#EXTINF:-1,Al JAZEERA Balkan UHD
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1,Al JAZEERA Balkan FHD
+https://live-hls-web-ajb.getaj.net/AJB/02.m3u8
+#EXTINF:-1,Al JAZEERA Balkan HD
+https://live-hls-web-ajb.getaj.net/AJB/03.m3u8
+#EXTINF:-1,Al JAZEERA Balkan SD
+https://live-hls-web-ajb.getaj.net/AJB/04.m3u8
+#EXTINF:-1,Al JAZEERA Balkan SD
+https://live-hls-web-ajb.getaj.net/AJB/05.m3u8
+#EXTINF:-1,Al JAZEERA Balkan LD
+https://live-hls-web-ajb.getaj.net/AJB/06.m3u8
 
 
+#EXTINF:0 tvg-rec="3",Sky Sport Mix HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/5039/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Golf HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/5043/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/5042/index.m3u8
+#EXTINF:0 tvg-rec="3",SYFY HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6092/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2484/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Highlights HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2485/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Atlantic HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2488/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Family HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2489/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Cinema Classics HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2490/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Krimi HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2491/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Arts HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2494/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport News HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2477/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport 1 FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2478/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2479/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2480/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2492/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2503/index.m3u8
+#EXTINF:0 tvg-rec="3",ZDF HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6059/index.m3u8
+#EXTINF:0 tvg-rec="0",ZDFinfo HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/17042/index.m3u8
+#EXTINF:0 tvg-rec="3",VOX HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6061/index.m3u8
+#EXTINF:0 tvg-rec="3",Universal TV FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6094/index.m3u8
+#EXTINF:0 tvg-rec="3",Warner TV Serie HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6090/index.m3u8
+#EXTINF:0 tvg-rec="3",Warner TV Film DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6111/index.m3u8
+#EXTINF:0 tvg-rec="3",Toggo DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6063/index.m3u8
+#EXTINF:0 tvg-rec="3",Spiegel Geschichte FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6091/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 9 FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6097/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6113/index.m3u8
+#EXTINF:0 tvg-rec="3",Sat.1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6060/index.m3u8
+#EXTINF:0 tvg-rec="3",Nitro FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6064/index.m3u8
+#EXTINF:0 tvg-rec="3",RTL HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6062/index.m3u8
+#EXTINF:0 tvg-rec="3",RTL Zwei HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6065/index.m3u8
+#EXTINF:0 tvg-rec="3",ProSieben HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6057/index.m3u8
+#EXTINF:0 tvg-rec="3",ProSieben Maxx FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6058/index.m3u8
+#EXTINF:0 tvg-rec="3",Kabel Eins HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6067/index.m3u8
+#EXTINF:0 tvg-rec="3",Comedy Central HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6081/index.m3u8
+#EXTINF:0 tvg-rec="3",Motorvision TV DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6112/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Passion HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7230/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance TV DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7231/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7234/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 3 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7235/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 4 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7236/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 5 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7237/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 6 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7238/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 7 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7239/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 8 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7240/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 9 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7241/index.m3u8
+#EXTINF:0 tvg-rec="0",Phoenix DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7255/index.m3u8
+#EXTINF:0 tvg-rec="0",Nat Geo Wild HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7256/index.m3u8
+#EXTINF:0 tvg-rec="0",Animal Planet HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7257/index.m3u8
+#EXTINF:0 tvg-rec="0",Welt DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7258/index.m3u8
+#EXTINF:0 tvg-rec="0",N-TV FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7259/index.m3u8
+#EXTINF:0 tvg-rec="0",Welt HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15169/index.m3u8
+#EXTINF:0 tvg-rec="0",SIXX HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15170/index.m3u8
+#EXTINF:0 tvg-rec="0",Arte DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15171/index.m3u8
+#EXTINF:0 tvg-rec="0",Das Erste HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15172/index.m3u8
+#EXTINF:0 tvg-rec="0",WDR HD (Aachen) DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15173/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben Maxx HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15174/index.m3u8
+#EXTINF:0 tvg-rec="0",KiKA FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15175/index.m3u8
+#EXTINF:0 tvg-rec="0",ATV DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15176/index.m3u8
+#EXTINF:0 tvg-rec="0",ORF 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15177/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Crime HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15178/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15179/index.m3u8
+#EXTINF:0 tvg-rec="0",HR FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15180/index.m3u8
+#EXTINF:0 tvg-rec="0",NDR HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15181/index.m3u8
+#EXTINF:0 tvg-rec="0",ARD Alpha FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/16058/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky One HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19000/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Crime HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19001/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Showcase HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19003/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Classics DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19005/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Replay HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19006/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Family FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19008/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Atlantic FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19009/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Highlights FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19013/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Premieren HD
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19014/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Cinema Classics FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19017/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Krimi FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19019/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Nature HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19020/index.m3u8
 
+
+#EXTINF:0 tvg-rec="0",Sky Documentaries HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19021/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport F1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19022/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportdigital 1+ HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19023/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport F1 DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19027/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19028/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 3 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19030/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 4 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19031/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 5 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19032/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 6 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19033/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 7 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19034/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 8 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19035/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 9 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19036/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 10 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19037/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Austria 4 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19038/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 360 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19040/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19042/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19043/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport UHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19044/index.m3u8
+#EXTINF:0 tvg-rec="0",History HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20017/index.m3u8
+#EXTINF:0 tvg-rec="0",History FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20039/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Channel HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20040/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoonito DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20042/index.m3u8
+#EXTINF:0 tvg-rec="0",Nick Jr. HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20043/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV Film HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20045/index.m3u8
+#EXTINF:0 tvg-rec="0",#dabeiTV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31279/index.m3u8
+#EXTINF:0 tvg-rec="0",1-2-3.tv HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31280/index.m3u8
+#EXTINF:0 tvg-rec="0",13th Street HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31281/index.m3u8
+#EXTINF:0 tvg-rec="0",3sat HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31282/index.m3u8
+#EXTINF:0 tvg-rec="0",Al Jazeera English HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31283/index.m3u8
+#EXTINF:0 tvg-rec="0",Animal Planet FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31284/index.m3u8
+#EXTINF:0 tvg-rec="0",Anixe HD Serie DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31285/index.m3u8
+#EXTINF:0 tvg-rec="0",Anixe+ HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31286/index.m3u8
+#EXTINF:0 tvg-rec="0",ARD Alpha HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31287/index.m3u8
+#EXTINF:0 tvg-rec="0",Arte HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31288/index.m3u8
+#EXTINF:0 tvg-rec="0",Asharq News HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31289/index.m3u8
+#EXTINF:0 tvg-rec="0",Auto Motor und Sport FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31290/index.m3u8
+#EXTINF:0 tvg-rec="0",Ballermann TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31291/index.m3u8
+#EXTINF:0 tvg-rec="0",Bergblick HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31292/index.m3u8
+#EXTINF:0 tvg-rec="0",Bibel TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31293/index.m3u8
+#EXTINF:0 tvg-rec="0",BonGusto HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31296/index.m3u8
+#EXTINF:0 tvg-rec="0",BR Fernsehen HD (Süd) DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31297/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoon Network DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31298/index.m3u8
+#EXTINF:0 tvg-rec="0",Cartoonito HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31299/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel 21 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31300/index.m3u8
+#EXTINF:0 tvg-rec="0",CNN International HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31301/index.m3u8
+#EXTINF:0 tvg-rec="0",Comedy Central FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31302/index.m3u8
+#EXTINF:0 tvg-rec="0",Craction HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31303/index.m3u8
+#EXTINF:0 tvg-rec="0",Crime + Investigation HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31304/index.m3u8
+#EXTINF:0 tvg-rec="0",Curiosity Channel HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31305/index.m3u8
+#EXTINF:0 tvg-rec="0",Das Erste DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31306/index.m3u8
+#EXTINF:0 tvg-rec="0",Deluxe Music FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31307/index.m3u8
+#EXTINF:0 tvg-rec="0",Deutsches Musik Fernsehen HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31308/index.m3u8
+#EXTINF:0 tvg-rec="0",DMAX HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31310/index.m3u8
+#EXTINF:0 tvg-rec="0",Euronews Deutsch DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31313/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31314/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31315/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31316/index.m3u8
+#EXTINF:0 tvg-rec="0",Folx Music Television HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31317/index.m3u8
+#EXTINF:0 tvg-rec="0",France 24 English HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31318/index.m3u8
+#EXTINF:0 tvg-rec="0",France 24 Francais HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31319/index.m3u8
+#EXTINF:0 tvg-rec="0",GEO Television HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31321/index.m3u8
+#EXTINF:0 tvg-rec="0",Heimatkanal DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31322/index.m3u8
+#EXTINF:0 tvg-rec="0",HGTV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31323/index.m3u8
+#EXTINF:0 tvg-rec="0",HR HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31324/index.m3u8
+#EXTINF:0 tvg-rec="0",HSE HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31325/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Inplus HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31326/index.m3u8
+#EXTINF:0 tvg-rec="0",Jukebox HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31327/index.m3u8
+#EXTINF:0 tvg-rec="0",K-TV DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31328/index.m3u8
+#EXTINF:0 tvg-rec="0",Kabel Eins DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31329/index.m3u8
+#EXTINF:0 tvg-rec="0",Kabel Eins Classics HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31330/index.m3u8
+#EXTINF:0 tvg-rec="0",Kabel Eins Doku HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31331/index.m3u8
+#EXTINF:0 tvg-rec="0",KiKA HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31332/index.m3u8
+#EXTINF:0 tvg-rec="0",KinoweltTV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31333/index.m3u8
+#EXTINF:0 tvg-rec="0",Magenta Musik 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31335/index.m3u8
+#EXTINF:0 tvg-rec="0",Magenta Musik 2 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31336/index.m3u8
+#EXTINF:0 tvg-rec="0",Magenta Sport HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31337/index.m3u8
+#EXTINF:0 tvg-rec="0",Marco Polo TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31339/index.m3u8
+#EXTINF:0 tvg-rec="0",MDR Fernsehen HD (Sachsen) DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31340/index.m3u8
+#EXTINF:0 tvg-rec="0",More Than Sports TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31341/index.m3u8
+#EXTINF:0 tvg-rec="0",MyTeam TV 1 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31343/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31344/index.m3u8
+#EXTINF:0 tvg-rec="0",N-TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31345/index.m3u8
+#EXTINF:0 tvg-rec="0",N24 Doku HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31346/index.m3u8
+#EXTINF:0 tvg-rec="0",Nat Geo Wild FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31348/index.m3u8
+#EXTINF:0 tvg-rec="0",NDR HD (Niedersachsen) DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31349/index.m3u8
+#EXTINF:0 tvg-rec="0",KiKA DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31350/index.m3u8
+#EXTINF:0 tvg-rec="0",Nick/Comedy Central+1 DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31351/index.m3u8
+#EXTINF:0 tvg-rec="0",Nitro HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31352/index.m3u8
+#EXTINF:0 tvg-rec="0",One HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31353/index.m3u8
+#EXTINF:0 tvg-rec="0",One Music Television HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31354/index.m3u8
+#EXTINF:0 tvg-rec="0",OUTtv HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31355/index.m3u8
+#EXTINF:0 tvg-rec="0",Phoenix HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31357/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31359/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben Fun HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31360/index.m3u8
+#EXTINF:0 tvg-rec="0",ProSieben Maxx DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31361/index.m3u8
+#EXTINF:0 tvg-rec="0",QVC HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31362/index.m3u8
+#EXTINF:0 tvg-rec="0",Radio Bremen TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31363/index.m3u8
+#EXTINF:0 tvg-rec="0",rbb Fernsehen HD (Berlin) DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31364/index.m3u8
+#EXTINF:0 tvg-rec="0",Red Bull TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31365/index.m3u8
+#EXTINF:0 tvg-rec="0",RiC HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31366/index.m3u8
+#EXTINF:0 tvg-rec="0",Romance TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31367/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31368/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Passion DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31369/index.m3u8
+#EXTINF:0 tvg-rec="0",RTL Passion FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31370/index.m3u8
+#EXTINF:0 tvg-rec="0",Tagesschau24 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31371/index.m3u8
+#EXTINF:0 tvg-rec="0",Sat.1 Gold HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31378/index.m3u8
+#EXTINF:0 tvg-rec="0",Schlager Deluxe HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31379/index.m3u8
+#EXTINF:0 tvg-rec="0",Sat.1 DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31380/index.m3u8
+#EXTINF:0 tvg-rec="0",Sat.1 Emotions HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31381/index.m3u8
+#EXTINF:0 tvg-rec="0",Sat.1 Gold DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31382/index.m3u8
+#EXTINF:0 tvg-rec="0",Schlager Deluxe DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31383/index.m3u8
+#EXTINF:0 tvg-rec="0",Schlagerparadies.TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31384/index.m3u8
+#EXTINF:0 tvg-rec="0",Servus TV Motorsport HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31385/index.m3u8
+#EXTINF:0 tvg-rec="0",Shop LC HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31387/index.m3u8
+#EXTINF:0 tvg-rec="0",SIXX FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31388/index.m3u8
+#EXTINF:0 tvg-rec="0",Sonnenklar.TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31389/index.m3u8
+#EXTINF:0 tvg-rec="0",Spiegel Geschichte HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31392/index.m3u8
+#EXTINF:0 tvg-rec="0",MyTeam TV 18 HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31402/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportdigital 1+ DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31411/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportdigital Fussball FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31413/index.m3u8
+#EXTINF:0 tvg-rec="0",SR Fernsehen HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31414/index.m3u8
+#EXTINF:0 tvg-rec="0",Stingray Classica HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31415/index.m3u8
+#EXTINF:0 tvg-rec="0",Stingray DJAZZ HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31416/index.m3u8
+#EXTINF:0 tvg-rec="0",Stingray iConcerts HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31417/index.m3u8
+#EXTINF:0 tvg-rec="0",SWR Fernsehen BW HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31419/index.m3u8
+#EXTINF:0 tvg-rec="0",SWR Fernsehen RP HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31420/index.m3u8
+#EXTINF:0 tvg-rec="0",History DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31424/index.m3u8
+#EXTINF:0 tvg-rec="0",Toggo Plus HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31426/index.m3u8
+#EXTINF:0 tvg-rec="0",TravelXP HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31427/index.m3u8
+#EXTINF:0 tvg-rec="0",TV5 Monde Europe HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31428/index.m3u8
+#EXTINF:0 tvg-rec="0",Universal TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31429/index.m3u8
+#EXTINF:0 tvg-rec="0",Volksmusik.TV HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31430/index.m3u8
+#EXTINF:0 tvg-rec="0",VOX DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31431/index.m3u8
+#EXTINF:0 tvg-rec="0",VOXup DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31432/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV Comedy HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31433/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV Film FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31434/index.m3u8
+
+#EXTINF:0 tvg-rec="0",WDR HD (Köln) DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31436/index.m3u8
+#EXTINF:0 tvg-rec="0",WedoTV Movies HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31437/index.m3u8
+#EXTINF:0 tvg-rec="0",Welt FHD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31438/index.m3u8
+#EXTINF:0 tvg-rec="0",Welt der Wunder HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31439/index.m3u8
+#EXTINF:0 tvg-rec="0",Wetter.com DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31440/index.m3u8
+#EXTINF:0 tvg-rec="0",ZDF DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31441/index.m3u8
+#EXTINF:0 tvg-rec="0",ZDFinfo DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31442/index.m3u8
+#EXTINF:0 tvg-rec="0",ZDFneo HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31443/index.m3u8
+#EXTINF:0 tvg-rec="0",Zwei Music Television HD DE
+#EXTGRP:Play Tv | Germany
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31444/index.m3u8
+
+
+#EXTINF:0 tvg-rec="3",Food Network HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1107/index.m3u8
+#EXTINF:0 tvg-rec="3",Tennis Channel FHD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6096/index.m3u8
+#EXTINF:0 tvg-rec="3",MoreMax HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6152/index.m3u8
+#EXTINF:0 tvg-rec="3",ThrillerMax HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6153/index.m3u8
+#EXTINF:0 tvg-rec="3",OuterMax HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6154/index.m3u8
+#EXTINF:0 tvg-rec="3",MovieMax HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6155/index.m3u8
+#EXTINF:0 tvg-rec="0",NHL Network US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7225/index.m3u8
+#EXTINF:0 tvg-rec="0",NBA TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7226/index.m3u8
+#EXTINF:0 tvg-rec="3",ION Television HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/901/index.m3u8
+#EXTINF:0 tvg-rec="3",NYCTV Life HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/902/index.m3u8
+#EXTINF:0 tvg-rec="3",CBS New York
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/903/index.m3u8
+#EXTINF:0 tvg-rec="3",Hallmark Movies & Mysteries HD
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1075/index.m3u8
+#EXTINF:0 tvg-rec="3",Telemundo HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1080/index.m3u8
+#EXTINF:0 tvg-rec="3",NBC New York HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1081/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney XD HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1082/index.m3u8
+#EXTINF:0 tvg-rec="3",AMC HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1083/index.m3u8
+#EXTINF:0 tvg-rec="3",HGTV FHD
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1084/index.m3u8
+#EXTINF:0 tvg-rec="3",truTV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1085/index.m3u8
+#EXTINF:0 tvg-rec="3",MAVTV HD
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1074/index.m3u8
+#EXTINF:0 tvg-rec="3",ABC HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1087/index.m3u8
+#EXTINF:0 tvg-rec="3",Fox 5 WNYW HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1086/index.m3u8
+#EXTINF:0 tvg-rec="3",MY9 New Jersey HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1088/index.m3u8
+#EXTINF:0 tvg-rec="3",MotorTrend HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1091/index.m3u8
+#EXTINF:0 tvg-rec="3",BBC America HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1092/index.m3u8
+#EXTINF:0 tvg-rec="3",WPIX HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1090/index.m3u8
+#EXTINF:0 tvg-rec="3",Thirteen HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1093/index.m3u8
+#EXTINF:0 tvg-rec="3",WLIW HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1094/index.m3u8
+#EXTINF:0 tvg-rec="3",New Jersey PBS HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1095/index.m3u8
+#EXTINF:0 tvg-rec="3",MeTV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1096/index.m3u8
+#EXTINF:0 tvg-rec="3",WMBC-TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1098/index.m3u8
+#EXTINF:0 tvg-rec="3",Univision HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1099/index.m3u8
+#EXTINF:0 tvg-rec="3",UniMás HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1100/index.m3u8
+#EXTINF:0 tvg-rec="3",USA HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1101/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1102/index.m3u8
+#EXTINF:0 tvg-rec="3",TBS US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1103/index.m3u8
+#EXTINF:0 tvg-rec="3",TLC HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1105/index.m3u8
+#EXTINF:0 tvg-rec="3",FXM Retro HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1106/index.m3u8
+#EXTINF:0 tvg-rec="3",A&E US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1108/index.m3u8
+#EXTINF:0 tvg-rec="3",CNBC HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/962/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 1 HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7322/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 2 HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7323/index.m3u8
+#EXTINF:0 tvg-rec="0",CBS Sports Network HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7324/index.m3u8
+#EXTINF:0 tvg-rec="0",MSG HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7325/index.m3u8
+#EXTINF:0 tvg-rec="0",MSG 2 HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7326/index.m3u8
+#EXTINF:0 tvg-rec="0",NBC Sports Network HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7327/index.m3u8
+#EXTINF:0 tvg-rec="0",NHL Network HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7328/index.m3u8
+#EXTINF:0 tvg-rec="0",SportsNet New York HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/11107/index.m3u8
+#EXTINF:0 tvg-rec="0",Spectrum SportsNet HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/11108/index.m3u8
+#EXTINF:0 tvg-rec="0",NESN HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/11109/index.m3u8
+#EXTINF:0 tvg-rec="0",A&E HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30001/index.m3u8
+
+
+#EXTINF:0 tvg-rec="0",American Heroes Channel HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30007/index.m3u8
+#EXTINF:0 tvg-rec="0",AXS TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30011/index.m3u8
+#EXTINF:0 tvg-rec="0",BabyFirst TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30012/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports En Español HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30015/index.m3u8
+#EXTINF:0 tvg-rec="0",BET Her HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30018/index.m3u8
+#EXTINF:0 tvg-rec="0",Bravo HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30024/index.m3u8
+#EXTINF:0 tvg-rec="0",C-SPAN 2 HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30026/index.m3u8
+#EXTINF:0 tvg-rec="0",C-SPAN 3 HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30027/index.m3u8
+#EXTINF:0 tvg-rec="0",C-SPAN HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30028/index.m3u8
+#EXTINF:0 tvg-rec="0",Cars.TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30030/index.m3u8
+#EXTINF:0 tvg-rec="0",Cheddar News HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30035/index.m3u8
+#EXTINF:0 tvg-rec="0",Comedy Central HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30044/index.m3u8
+#EXTINF:0 tvg-rec="0",Cooking Channel HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30045/index.m3u8
+#EXTINF:0 tvg-rec="0",Crime + Investigation HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30046/index.m3u8
+#EXTINF:0 tvg-rec="0",Destination America HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30051/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Channel HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30052/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Family HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30055/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Life HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30056/index.m3u8
+#EXTINF:0 tvg-rec="0",E! HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30060/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN Deportes HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30063/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPNews HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30066/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPNU HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30067/index.m3u8
+#EXTINF:0 tvg-rec="0",Flix HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30071/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Deportes HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30075/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox News Channel HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30076/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 2 US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30078/index.m3u8
+#EXTINF:0 tvg-rec="0",Fuse HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30081/index.m3u8
+#EXTINF:0 tvg-rec="0",FX HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30082/index.m3u8
+#EXTINF:0 tvg-rec="0",FYI HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30085/index.m3u8
+#EXTINF:0 tvg-rec="0",Golf Channel HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30089/index.m3u8
+#EXTINF:0 tvg-rec="0",Game Show Network HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30091/index.m3u8
+#EXTINF:0 tvg-rec="0",HDNet Movies HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30102/index.m3u8
+#EXTINF:0 tvg-rec="0",History HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30105/index.m3u8
+#EXTINF:0 tvg-rec="0",HSN HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30109/index.m3u8
+#EXTINF:0 tvg-rec="0",HSN2 HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30110/index.m3u8
+#EXTINF:0 tvg-rec="0",i24 News HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30111/index.m3u8
+#EXTINF:0 tvg-rec="0",Jewelry TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30119/index.m3u8
+#EXTINF:0 tvg-rec="0",Justice Central.TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30120/index.m3u8
+#EXTINF:0 tvg-rec="0",Lifetime HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30122/index.m3u8
+#EXTINF:0 tvg-rec="0",LMN HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30124/index.m3u8
+#EXTINF:0 tvg-rec="0",Logo HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30126/index.m3u8
+#EXTINF:0 tvg-rec="0",Movieplex HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30142/index.m3u8
+#EXTINF:0 tvg-rec="0",Spectrum News 1 NY HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/30148/index.m3u8
+#EXTINF:0 tvg-rec="0",Altitude Sports HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31000/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Arizona HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31001/index.m3u8
+#EXTINF:0 tvg-rec="0",MTV2 HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31002/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Detroit HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31003/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Detroit Plus HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31004/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Florida HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31005/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Florida Plus HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31006/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Great Lakes HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31007/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Oklahoma HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31008/index.m3u8
+#EXTINF:0 tvg-rec="0",Newsmax TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31009/index.m3u8
+#EXTINF:0 tvg-rec="0",NFL Network US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31011/index.m3u8
+#EXTINF:0 tvg-rec="0",NFL RedZone HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31012/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31013/index.m3u8
+#EXTINF:0 tvg-rec="0",Nick Jr. HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31014/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports New Orleans HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31015/index.m3u8
+#EXTINF:0 tvg-rec="0",NickToons HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31016/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports North HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31017/index.m3u8
+#EXTINF:0 tvg-rec="0",Outdoor Channel US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31018/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31019/index.m3u8
+#EXTINF:0 tvg-rec="0",Ovation TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31020/index.m3u8
+#EXTINF:0 tvg-rec="0",OWN HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31021/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cincinnati HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31022/index.m3u8
+#EXTINF:0 tvg-rec="0",Paramount Network HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31029/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Ohio Cleveland HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31030/index.m3u8
+#EXTINF:0 tvg-rec="0",ION Mystery HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31031/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports San Diego HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31032/index.m3u8
+#EXTINF:0 tvg-rec="0",Pets.TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31033/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports SoCal HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31034/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southeast HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31035/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31036/index.m3u8
+#EXTINF:0 tvg-rec="0",QVC HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31037/index.m3u8
+#EXTINF:0 tvg-rec="0",QVC2 HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31038/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Southwest Plus HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31039/index.m3u8
+#EXTINF:0 tvg-rec="0",Recipe.TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31040/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Sun HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31041/index.m3u8
+#EXTINF:0 tvg-rec="0",Retroplex HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31042/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports West HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31043/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports West Plus HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31044/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31046/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Wisconsin Plus HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31047/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31048/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 2 US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31049/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 3 US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31050/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 4 US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31051/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 5 US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31052/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 6 US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31053/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports 7 US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31054/index.m3u8
+#EXTINF:0 tvg-rec="0",Monumental Sports Network HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31056/index.m3u8
+#EXTINF:0 tvg-rec="0",Smithsonian Channel HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31061/index.m3u8
+#EXTINF:0 tvg-rec="0",TBS HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31083/index.m3u8
+#EXTINF:0 tvg-rec="0",TCM HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31084/index.m3u8
+#EXTINF:0 tvg-rec="0",TeenNick HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31085/index.m3u8
+#EXTINF:0 tvg-rec="0",Tennis Channel HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31089/index.m3u8
+#EXTINF:0 tvg-rec="0",TLC US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31098/index.m3u8
+#EXTINF:0 tvg-rec="0",TUDN HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31103/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31110/index.m3u8
+#EXTINF:0 tvg-rec="0",Universal Kids HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31120/index.m3u8
+#EXTINF:0 tvg-rec="0",Universo HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31121/index.m3u8
+#EXTINF:0 tvg-rec="0",Up TV HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31123/index.m3u8
+#EXTINF:0 tvg-rec="0",USA US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31124/index.m3u8
+#EXTINF:0 tvg-rec="0",Vice HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31126/index.m3u8
+#EXTINF:0 tvg-rec="0",Willow HD US
+#EXTGRP:Play Tv  | USA
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31131/index.m3u8
+
+
+#EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9310/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 1 HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2160/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9293/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9283/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9335/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9248/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9314/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9308/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky History HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/16037/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Football HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9289/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Cricket HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9258/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9334/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2505/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9155/index.m3u8
+#EXTINF:0 tvg-rec="0",ITVBe UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19190/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2506/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 1 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6555/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6556/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 3 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6564/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6566/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Premier League HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7335/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Football HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7336/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7337/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7339/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Action HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7340/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Racing HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7341/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports F1 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7342/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Cricket HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7343/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7344/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV1 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19185/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV2 HD UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19186/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV3 +1 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19187/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV4 +1 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19188/index.m3u8
+#EXTINF:0 tvg-rec="0",ITV4 UK
+#EXTGRP:Play Tv | United Kingdom
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19189/index.m3u8
