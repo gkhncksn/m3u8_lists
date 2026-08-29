@@ -23,12 +23,52 @@ http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="XXX",DUSK
 http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="XXX",PLAYBOY
-http://31.148.48.15:80/Playboy_TV/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="Venus" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus-ar.svg",Venus
+http://cdn4k.cc:80/JosemarOliveira/24jos999064802/28293
+#EXTINF:-1 group-title="XXX" tvg-logo="",Sex girl(125)
+http://125.227.210.55:3031/VideoInput/play.ts
+#EXTINF:-1 group-title="XXX" tvg-logo="https://www.tvbrowser.org/data/uploads/icons/3489946438aebffec54b07efa9287559.png",DMF
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",香蕉台(125)
+http://125.227.210.55:1009/VideoInput/play.ts
+#EXTINF:-1 group-title="XXX" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",OSTV 2(125)
+http://125.227.210.55:1022/VideoInput/play.ts
+#EXTINF:-1 group-title="XXX" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",OSTV 3(125)
+http://125.227.210.55:3033/VideoInput/play.ts
+#EXTINF:-1 group-title="XXX",AMAZING TV
+http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 group-title="XXX",AMAZING TV
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
+#EXTINF:-1 group-title="XXX",AMAZING TV
+http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",AMAZING TV
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
+#EXTINF:-1 group-title="XXX" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",BANANA HD
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+#EXTINF:-1 group-title="XXX" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",SONSEE 1
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+#EXTINF:-1 group-title="XXX" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",SONSEE 2
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+#EXTINF:-1 group-title="XXX" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",SONSEE 3
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+#EXTINF:-1 group-title="XXX" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",PANDORA PERFECT
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC1_logo_2023.svg.png" tvg-name="CARAC 1 HD" group-title="XXX",CARAC 1
+https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC 2
+https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC5_logo_2025.svg.png" group-title="XXX",CARAC 5
+https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",驚豔台(125)
+http://125.227.210.55:3016/VideoInput/play.ts
 #EXTINF:-1 group-title="XXX",PLAYBOY LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="426102" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="XXX",PLAYBOY
+http://31.148.48.15:80/Playboy_TV/playlist.m3u8
+
 #EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="https://epg.iptvx.one/picons/eroluxe-anal.png",EroLuxe Anal
 http://u.vipl.one/high/ierw63qgf1/1685.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="https://epg.iptvx.one/picons/eroluxe-asian.png",EroLuxe Asian
@@ -107,51 +147,6 @@ http://u.vipl.one/high/ierw63qgf1/1704.m3u8
 http://u.vipl.one/high/ierw63qgf1/1705.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="https://epg.iptvx.one/picons/eroluxe-60fps.png",EroLuxe 60fps
 http://u.vipl.one/high/ierw63qgf1/1684.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="XXX" tvg-id="Venus" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus-ar.svg",Venus
-http://cdn4k.cc:80/JosemarOliveira/24jos999064802/28293
-#EXTINF:-1 group-title="XXX" tvg-logo="",Sex girl(125)
-http://125.227.210.55:3031/VideoInput/play.ts
-#EXTINF:-1 group-title="XXX" tvg-logo="https://www.tvbrowser.org/data/uploads/icons/3489946438aebffec54b07efa9287559.png",DMF
-https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",香蕉台(125)
-http://125.227.210.55:1009/VideoInput/play.ts
-#EXTINF:-1 group-title="XXX" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",OSTV 2(125)
-http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="XXX" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",OSTV 3(125)
-http://125.227.210.55:3033/VideoInput/play.ts
-#EXTINF:-1 group-title="XXX",AMAZING TV
-http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
-#EXTINF:-1 group-title="XXX",AMAZING TV
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
-#EXTINF:-1 group-title="XXX",AMAZING TV
-http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
-#EXTINF:-1 group-title="XXX" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",AMAZING TV
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
-#EXTINF:-1 group-title="XXX" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",BANANA HD
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
-#EXTINF:-1 group-title="XXX" tvg-id="456834" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",SONSEE 1
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
-#EXTINF:-1 group-title="XXX" tvg-id="456835" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",SONSEE 2
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
-#EXTINF:-1 group-title="XXX" tvg-id="456836" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",SONSEE 3
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
-#EXTINF:-1 group-title="XXX" tvg-id="456838" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",PANDORA PERFECT
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC1_logo_2023.svg.png" tvg-name="CARAC 1 HD" group-title="XXX",CARAC 1
-https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC 2
-https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC5_logo_2025.svg.png" group-title="XXX",CARAC 5
-https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",驚豔台(125)
-http://125.227.210.55:3016/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://public.swag.live/messages/5fd238f3586c4ec1306a7143/poster.jpg" group-title="ASIATICO",SWAG 柔柔@elvababe NTR人妻的外遇日記，一次比一次更大膽的讓老公戴綠帽[顏射+口爆+內射]！
 https://pg2z7.cdnedge.live/file/avple-images/hls/61a80d2b7aac5d7ef57bda5a/playlist.m3u8
