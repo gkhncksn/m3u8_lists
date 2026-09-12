@@ -671,3 +671,141 @@ http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yalan.SON.mkv
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yali.Capkini.SON.mkv
 #EXTINF:-1 tvg-name="Zembilli" group-title="Play Tv | Dizi Son Bölüm",Zembilli
 http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Zembilli.SON.mkv
+#EXTINF:-1 tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/atv-tr.png" tvg-name="ATV" group-title="Ulusal",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" tvg-name="TRT 1" group-title="Ulusal",TRT 1 1080p
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="Ulusal",TRT 1 720p
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Ulusal",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/beyaz-tv-tr.png" tvg-name="Beyaz Tv" group-title="Ulusal",Beyaz Tv
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 group-title="Ulusal",TV4 (720p)
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/360-tr.png" tvg-name="360 TV" group-title="Ulusal",360 TV
+https://tv.ensonhaber.com/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Müzik",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Müzik",Power Turk (1080p) [Not 24/7]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415bb8866ac31d980eb377" tvg-name="NumberOne Türk" group-title="Müzik",NumberOne Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5e415748866ac31d980eb317" tvg-name="NumberOne TV" group-title="Müzik",NumberOne TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/07/N1_TR_Damar.png" tvg-name="NumberOne Damar" group-title="Müzik",NumberOne Damar
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-name="MTV Biggest Pop" group-title="Müzik",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" tvg-name="Vevo Pop" group-title="Müzik",Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/427211/08b0290dea20778f9fc79d2a9e563232.webp" tvg-name="Slow karadeniz" group-title="Müzik",Slow karadeniz
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+#EXTINF:-1 group-title="Müzik",TRT MUZIK HD
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Müzik",TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" tvg-name="TRT Müzik" group-title="Müzik",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Müzik",Radyo Kulüp
+http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" tvg-name="TRT SPOR" group-title="Spor",TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" tvg-name="TRT Spor Yıldız 1080p" group-title="Spor",TRT Spor Yıldız
+https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtspor
+#EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/23855_1-0-465-262.jpeg" tvg-name="TRT Spor Yıldız" group-title="Spor",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" tvg-name="TRT 1" group-title="TRT",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027954.png" tvg-name="TRT 2 (Tabii linki)" group-title="TRT",TRT 2 (Tabii linki)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png" tvg-name="TRT Türk" group-title="TRT",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TRT",TRT TÜRK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",E OKUL
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/14812637.png" tvg-name="TRT Kürdi" group-title="TRT",TRT Kürdi
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027905.png" tvg-name="TRT Arabi" group-title="TRT",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TRT",TRT Avaz (720p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png" tvg-name="TRT World" group-title="TRT",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" tvg-name="Meclis TV" group-title="TRT",Meclis TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st=
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" tvg-name="Haber Global" group-title="Haber",Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f" tvg-name="TGRT Haber" group-title="Haber",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1 tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bfbd866ac31da06187c5" tvg-name="Halk TV" group-title="Haber",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NcMpZLeMJzAQboY5GKm17MLkFqtthxweBH8RUeMP7GHKfqnMuxtvorh_xOAmLsCpGQ" tvg-name="Ekol TV" group-title="Haber",Ekol TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
+#EXTINF:-1 group-title="Haber",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" tvg-name="Meclis TV" group-title="TRT",Meclis TV
+https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/8114410.png" tvg-name="TRT Belgesel" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" tvg-name="TRT Diyanet Çocuk" group-title="Çocuklara Özel",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Yerel",Haber61 TV (720p) [Not 24/7]
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 group-title="Yerel",Kanal 32 (480p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Yerel",Erzurum Web TV (720p)
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
+#EXTINF:-1 group-title="Yerel",Erzurum Web TV
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 group-title="Yerel",KANAL 23
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
+#EXTINF:-1 group-title="Yerel",group-title="Yerel",MC EU TV
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 group-title="Yerel",group-title="Yerel",Viyana TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="Yerel",group-title="Yerel",Briç ve Satranç TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 group-title="Yerel",group-title="Yerel",FTV Türk
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="Yerel",group-title="Yerel",TV DEN
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Big Ass HD 720
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Big Dick HD 720
+http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Big Tits HD 720
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Blowjob HD 720
+http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Cuckold HD 720
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Fetish HD 720
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Hardcore HD 720
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Interracial HD 720
+http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Latina HD 720
+http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Lesbian HD 720
+http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Milf HD 720
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Pornstar HD 720
+http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic POV HD 720
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Russian HD 720
+http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Teen HD 720
+http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="XXX",RedTraffic Threesome HD 720
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
