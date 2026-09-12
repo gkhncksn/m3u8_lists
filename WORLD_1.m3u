@@ -91,14 +91,12 @@ https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC5_logo_2025.svg.png" group-title="XXX",CARAC 5
 https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-
 #EXTINF:-1 group-title="XXX",PLAYBOY LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="Playboy LA" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="XXX",PLAYBOY
 http://31.148.48.15:80/Playboy_TV/playlist.m3u8
-
 #EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="https://epg.iptvx.one/picons/[VPN] EroLuxe-anal.png",[VPN] EroLuxe Anal
 http://u.vipl.one/high/ierw63qgf1/1685.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="https://epg.iptvx.one/picons/[VPN] EroLuxe-asian.png",[VPN] EroLuxe Asian
