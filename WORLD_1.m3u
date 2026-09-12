@@ -31,6 +31,8 @@ http://125.227.210.55:3031/VideoInput/play.ts
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",香蕉台(125)
 http://125.227.210.55:1009/VideoInput/play.ts
+#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",驚豔台(125)
+http://125.227.210.55:3016/VideoInput/play.ts
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",OSTV 2(125)
 http://125.227.210.55:1022/VideoInput/play.ts
 #EXTINF:-1 group-title="XXX" tvg-logo="https://www.ourshdtv.com/static/index/images/logo/logo_727_346.png",OSTV 3(125)
@@ -45,7 +47,6 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
 #EXTINF:-1 group-title="XXX" tvg-id="PANDORA PERFECT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",PANDORA PERFECT
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
-
 #EXTINF:-1 group-title="XXX" tvg-id="SONSEE 1" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",SONSEE 1
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
 #EXTINF:-1 group-title="XXX" tvg-id="SONSEE 2" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",SONSEE 2
@@ -90,8 +91,7 @@ https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/CARAC5_logo_2025.svg.png" group-title="XXX",CARAC 5
 https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
-#EXTINF:-1 group-title="XXX" tvg-id="" tvg-logo="",驚豔台(125)
-http://125.227.210.55:3016/VideoInput/play.ts
+
 #EXTINF:-1 group-title="XXX",PLAYBOY LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="XXX" tvg-id="Playboy LA" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
