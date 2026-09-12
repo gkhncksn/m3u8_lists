@@ -37,22 +37,20 @@ http://125.227.210.55:1022/VideoInput/play.ts
 http://125.227.210.55:3033/VideoInput/play.ts
 #EXTINF:-1 group-title="XXX",AMAZING TV
 http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="AMAZING TV" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",AMAZING TV
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
+#EXTINF:-1 group-title="XXX" tvg-id="BANANA HD" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",BANANA HD
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+#EXTINF:-1 group-title="XXX" tvg-id="PANDORA PERFECT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",PANDORA PERFECT
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
 #EXTINF:-1 group-title="XXX",AMAZING TV
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
-#EXTINF:-1 group-title="XXX",AMAZING TV
-http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
-#EXTINF:-1 group-title="XXX" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",AMAZING TV
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
-#EXTINF:-1 group-title="XXX" tvg-id="456842" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/Banana.png",BANANA HD
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
 #EXTINF:-1 group-title="XXX" tvg-id="SONSEE 1" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee1.png",SONSEE 1
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
 #EXTINF:-1 group-title="XXX" tvg-id="SONSEE 2" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/SonSee2.png",SONSEE 2
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
 #EXTINF:-1 group-title="XXX" tvg-id="SONSEE 3" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/sonsee3.png",SONSEE 3
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
-#EXTINF:-1 group-title="XXX" tvg-id="PANDORA PERFECT" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/pandora_perfect.png",PANDORA PERFECT
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
 #EXTINF:-1 group-title="XXX",RedTraffic Big Ass HD 720
 http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
 #EXTINF:-1 group-title="XXX",RedTraffic Big Dick HD 720
